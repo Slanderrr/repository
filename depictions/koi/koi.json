@@ -22,6 +22,18 @@
                         {
                             "accessibilityText": "Screenshot3",
                             "url": "https://repo.litten.love/depictions/koi/assets/ss4.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot4",
+                            "url": "https://repo.litten.love/depictions/koi/assets/ss5.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot5",
+                            "url": "https://repo.litten.love/depictions/koi/assets/ss6.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot6",
+                            "url": "https://repo.litten.love/depictions/koi/assets/ss7.png"
                         }
                     ]
                 },
