@@ -24,10 +24,41 @@
 
         }
 
+        .backgroundVideo .container {
+
+            height: 100%;
+            width: 100%;
+            position: fixed;
+            top: 0px;
+            left: 0;
+            opacity: 0.2;
+
+        }
+
+        .backgroundVideo .container video {
+
+            position: absolute;
+            top: -100px;
+
+        }
+
+        .backgroundVideo .container .blurOverlay {
+
+            position: absolute;
+            top: 0;
+            left: 0;
+            height: 100%;
+            width: 100%;
+            background-color: rgba(255, 255, 255, 0.2);
+            backdrop-filter: blur(30px);
+            -webkit-backdrop-filter: blur(30px);
+
+        }
+
         .home .container {
 
             text-align: center;
-            height: 90%; 
+            height: 90%;
             width:100%;
             display:flex;
             align-items: center;
@@ -40,7 +71,6 @@
             color: #000;
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
             font-weight: 300;
-            /* transform: translateY(350px); */
 
         }
 
@@ -128,6 +158,16 @@
 
         }
 
+        @media only screen and (max-width: 414px) {
+
+            .backgroundVideo .container {
+
+                display: none;
+                
+            }
+
+        }
+
         @media (prefers-color-scheme: light) {
 
             html, body {
@@ -164,6 +204,16 @@
 
 </head>
 <body onclick="addRepo()">
+
+    <div class="backgroundVideo">
+        <div class="container">
+
+            <video src="assets/wallpaper.mp4" muted autoplay loop></video>
+
+            <div class="blurOverlay"></div>
+
+        </div>
+    </div>
     
     <div class="home">
         <div class="container">
