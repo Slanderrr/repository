@@ -41,12 +41,12 @@
                 },
                 {
                     "title": "Version",
-                    "text": "1.0",
+                    "text": "1.1",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "09-29-2020",
+                    "text": "11-20-2020",
                     "title": "Last Time Updated"
                 },
                 {
@@ -91,12 +91,26 @@
             "views": [
                 {   
                     "class": "DepictionSubheaderView",
-                    "title": "Customization",
+                    "title": "Background Customization",
                     "useBoldText": true
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- custom alpha",
+                    "markdown": "- custom alpha\r\n- color: background, primary, secondary",
+                    "useSpacing": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {   
+                    "class": "DepictionSubheaderView",
+                    "title": "Menu Customization",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- custom alpha\r\n- color: background, primary, secondary\r\n- magic",
                     "useSpacing": false
                 },
                 {
@@ -109,6 +123,20 @@
             "class": "DepictionStackView",
             "tabname": "Changelog",
             "views": [
+                {   
+                    "class": "DepictionSubheaderView",
+                    "title": "Version 1.1",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Added Menu Coloring\r\n- Added More Customization\r\n- Fixed Crashes When Force Touching Widgets And Shortcuts",
+                    "useSpacing": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
                 {   
                     "class": "DepictionSubheaderView",
                     "title": "Version 1.0",
