@@ -760,6 +760,25 @@ Icon: https://repo.litten.love/depictions/lia/assets/icon.png
 Name: Lobelias 💐
 Sileodepiction: https://repo.litten.love/depictions/lia/lia.json
 
+Package: love.litten.lobelias
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: Litten <hiya@litten.love>
+Installed-Size: 1584
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.spark.libsparkcolourpicker, love.litten.libkitten
+Filename: ./debs/love.litten.lobelias_1.1.1_iphoneos-arm.deb
+Size: 1102174
+MD5sum: 7939a658a9519059af9f62e11c583108
+SHA1: 2eb7edcd5dcdb175678fbea1cceff9eee6d4d583
+SHA256: 6a761e6a9f13e5c43e932124ffadf00bbfe9bf68173bba79d19034e12fb46bc4
+Section: Tweaks
+Description: Redesign your lockscreen player
+Author: Litten <hiya@litten.love>
+Depiction: https://repo.litten.love/depictions/lia/index.html
+Icon: https://repo.litten.love/depictions/lia/assets/icon.png
+Name: Lobelias 💐
+Sileodepiction: https://repo.litten.love/depictions/lia/lia.json
+
 Package: love.litten.nita
 Version: 1.0
 Architecture: iphoneos-arm
