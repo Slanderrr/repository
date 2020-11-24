@@ -10,6 +10,12 @@
          "hideShadow":true
       },
       {
+         "url":"https://repo.litten.love/depictions/lsa/assets/Banner.png",
+         "title":"Lisa",
+         "package":"love.litten.lisa",
+         "hideShadow":true
+      },
+      {
          "url":"https://repo.litten.love/depictions/koi/assets/Banner.png",
          "title":"Koi",
          "package":"0xcc.woodfairy.koi",
@@ -22,27 +28,15 @@
          "hideShadow":true
       },
       {
-         "url":"https://repo.litten.love/depictions/ava/assets/Banner.png",
-         "title":"Avrora",
-         "package":"love.litten.avrora",
-         "hideShadow":true
-      },
-      {
-         "url":"https://repo.litten.love/depictions/lsa/assets/Banner.png",
-         "title":"Lisa",
-         "package":"love.litten.lisa",
-         "hideShadow":true
-      },
-      {
-         "url":"https://repo.litten.love/depictions/lsa/assets/Banner.png",
-         "title":"Lisa",
-         "package":"love.litten.lisa",
-         "hideShadow":true
-      },
-      {
          "url":"https://repo.litten.love/depictions/pck/assets/Banner.png",
          "title":"Puck",
          "package":"love.litten.puck",
+         "hideShadow":true
+      },
+      {
+         "url":"https://repo.litten.love/depictions/ava/assets/Banner.png",
+         "title":"Avrora",
+         "package":"love.litten.avrora",
          "hideShadow":true
       }
    ]
