@@ -4,9 +4,15 @@
    "itemCornerRadius":10,
    "banners":[
       {  
-         "url":"https://repo.litten.love/depictions/lsa/assets/Banner.png",
-         "title":"Lisa",
-         "package":"love.litten.lisa",
+         "url":"https://repo.litten.love/depictions/vio/assets/Banner.png",
+         "title":"Violet",
+         "package":"love.litten.violet",
+         "hideShadow":true
+      },
+      {  
+         "url":"https://repo.litten.love/depictions/afo/assets/Banner.png",
+         "title":"Astolfo",
+         "package":"love.litten.astolfo",
          "hideShadow":true
       },
       {
@@ -16,33 +22,15 @@
          "hideShadow":true
       },
       {  
-         "url":"https://repo.litten.love/depictions/vio/assets/Banner.png",
-         "title":"Violet",
-         "package":"love.litten.violet",
-         "hideShadow":true
-      },
-      {  
-         "url":"https://repo.litten.love/depictions/nta/assets/Banner.png",
-         "title":"Nita",
-         "package":"love.litten.nita",
+         "url":"https://repo.litten.love/depictions/lia/assets/Banner.png",
+         "title":"Lobelias",
+         "package":"love.litten.lobelias",
          "hideShadow":true
       },
       {
-         "url":"https://repo.litten.love/depictions/pck/assets/Banner.png",
-         "title":"Puck",
-         "package":"love.litten.puck",
-         "hideShadow":true
-      },
-      {
-         "url":"https://repo.litten.love/depictions/drs/assets/Banner.png",
-         "title":"Dress",
-         "package":"love.litten.dress",
-         "hideShadow":true
-      },
-      {  
-         "url":"https://repo.litten.love/depictions/alk/assets/Banner.png",
-         "title":"AmongLock",
-         "package":"love.litten.amonglock",
+         "url":"https://repo.litten.love/depictions/ava/assets/Banner.png",
+         "title":"Avrora",
+         "package":"love.litten.avrora",
          "hideShadow":true
       }
    ]

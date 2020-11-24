@@ -93,6 +93,25 @@ Icon: https://repo.litten.love/depictions/alk/assets/icon.png
 Name: AmongLock 👻
 Sileodepiction: https://repo.litten.love/depictions/alk/alk.json
 
+Package: love.litten.astolfo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Litten <hiya@litten.love>
+Installed-Size: 2004
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.muirey03.libimagepicker
+Filename: ./debs/love.litten.astolfo_1.0_iphoneos-arm.deb
+Size: 1833652
+MD5sum: 90b426fafa0104b956982f8a7bcd2307
+SHA1: 95e37d0cad0e565a5955add9be1afc7a989bcdfa
+SHA256: 58fc155b13da4de0c8b0c78b0485b50f59770dc323782194d7d34a611fc3583e
+Section: Tweaks
+Description: Astolfo Siri
+Author: Litten <hiya@litten.love>
+Depiction: https://repo.litten.love/depictions/afo/index.html
+Icon: https://repo.litten.love/depictions/afo/assets/icon.png
+Name: Astolfo 👒
+Sileodepiction: https://repo.litten.love/depictions/afo/afo.json
+
 Package: love.litten.avrora
 Version: 1.0
 Architecture: iphoneos-arm
