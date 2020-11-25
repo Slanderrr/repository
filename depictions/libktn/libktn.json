@@ -16,7 +16,7 @@
                     "title": "markdown-description",
                     "useBoldText": true,
                     "class": "DepictionMarkdownView",
-                    "markdown": "An open source (not yet) library to get three different colors from an image from open source code",
+                    "markdown": "Library to get three different colors from an image and detect if one is light or dark",
                     "useBottomMargin": false
                 },
                 {
