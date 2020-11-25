@@ -93,7 +93,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Enable\r\n- Use As Wallpaper",
+                    "markdown": "- Enable\r\n- Use As Wallpaper",
                     "useSpacing": false
                 },
                 {
@@ -107,7 +107,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Enable",
+                    "markdown": "- Enable",
                     "useSpacing": false
                 },
                 {
@@ -121,7 +121,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Enable",
+                    "markdown": "- Enable",
                     "useSpacing": false
                 },
                 {
@@ -135,7 +135,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Theme Passcode\r\n- Wrong Passcode Animation",
+                    "markdown": "- Theme Passcode\r\n- Wrong Passcode Animation",
                     "useSpacing": false
                 },
                 {
@@ -149,7 +149,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Passcode Appears\r\n- Passcode Disappears\r\n- Wrong Passcode\r\n- Passcode Button Press",
+                    "markdown": "- Passcode Appears\r\n- Passcode Disappears\r\n- Wrong Passcode\r\n- Passcode Button Press",
                     "useSpacing": false
                 },
                 {
