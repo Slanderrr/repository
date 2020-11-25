@@ -38,17 +38,17 @@
                 },
                 {
                     "title": "Version",
-                    "text": "1.0.2",
+                    "text": "1.1",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "11-09-2020",
+                    "text": "11-25-2020",
                     "title": "Last Time Updated"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "11-08-2020",
+                    "text": "11-25-2020",
                     "title": "Released"
                 },
                 {
@@ -93,7 +93,63 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Use As Wallpaper",
+                    "markdown": "Enable\r\n- Use As Wallpaper",
+                    "useSpacing": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {   
+                    "class": "DepictionSubheaderView",
+                    "title": "Ejection Video",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Enable",
+                    "useSpacing": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {   
+                    "class": "DepictionSubheaderView",
+                    "title": "Bulbs",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Enable",
+                    "useSpacing": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {   
+                    "class": "DepictionSubheaderView",
+                    "title": "Passcode",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Theme Passcode\r\n- Wrong Passcode Animation",
+                    "useSpacing": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {   
+                    "class": "DepictionSubheaderView",
+                    "title": "Audio",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Passcode Appears\r\n- Passcode Disappears\r\n- Wrong Passcode\r\n- Passcode Button Press",
                     "useSpacing": false
                 },
                 {
@@ -121,7 +177,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Tap To Skip Ejection",
+                    "markdown": "- Tap To Skip Ejection\r\n- Change Frame When Rotating",
                     "useSpacing": false
                 },
                 {
@@ -134,6 +190,20 @@
             "class": "DepictionStackView",
             "tabname": "Changelog",
             "views": [
+                {   
+                    "class": "DepictionSubheaderView",
+                    "title": "Version 1.1",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Added Customization Options\r\n- Add Rotation Support\r\n- Stop Wallpaper When Locked To Save Battery",
+                    "useSpacing": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
                 {   
                     "class": "DepictionSubheaderView",
                     "title": "Version 1.0.2",
