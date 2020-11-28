@@ -112,6 +112,25 @@ Icon: https://repo.litten.love/depictions/alk/assets/icon.png
 Name: AmongLock 👻
 Sileodepiction: https://repo.litten.love/depictions/alk/alk.json
 
+Package: love.litten.amonglock
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: Litten <hiya@litten.love>
+Installed-Size: 24060
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./debs/love.litten.amonglock_1.1.1_iphoneos-arm.deb
+Size: 21506722
+MD5sum: d7b263d63db23fc5636dc2cb879e177d
+SHA1: 2134e98eff665c8c0a6c7b7c8567de866f4266c3
+SHA256: 4b0fa80e0217259c62eb93565905e1f4906b3dd468842b872e4b28f01ff69e53
+Section: Tweaks
+Description: You were not the owner of this device
+Author: Litten <hiya@litten.love>
+Depiction: https://repo.litten.love/depictions/alk/index.html
+Icon: https://repo.litten.love/depictions/alk/assets/icon.png
+Name: AmongLock 👻
+Sileodepiction: https://repo.litten.love/depictions/alk/alk.json
+
 Package: love.litten.avrora
 Version: 1.0
 Architecture: iphoneos-arm

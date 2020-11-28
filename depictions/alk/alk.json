@@ -38,12 +38,12 @@
                 },
                 {
                     "title": "Version",
-                    "text": "1.1",
+                    "text": "1.1.1",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "11-25-2020",
+                    "text": "11-28-2020",
                     "title": "Last Time Updated"
                 },
                 {
@@ -190,6 +190,20 @@
             "class": "DepictionStackView",
             "tabname": "Changelog",
             "views": [
+                {   
+                    "class": "DepictionSubheaderView",
+                    "title": "Version 1.1.1",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Fixed Wallpaper Appearing Even If Disabled",
+                    "useSpacing": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
                 {   
                     "class": "DepictionSubheaderView",
                     "title": "Version 1.1",
