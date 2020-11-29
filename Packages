@@ -824,13 +824,13 @@ Maintainer: Litten <hiya@litten.love>
 Installed-Size: 1088
 Depends: mobilesubstrate, preferenceloader, firmware (>= 13), ws.hbang.common (>= 1.14), love.litten.libkitten, com.spark.libsparkcolourpicker
 Filename: ./debs/love.litten.lune_1.0_iphoneos-arm.deb
-Size: 815210
-MD5sum: 913752473c23f977f36483b167a736ea
-SHA1: 69165b503407031fcbc3a6692c016f69f122474c
-SHA256: d7528dce618e1a4f7f5c9613b6af3f4fcc26e177c188ad42dfebe8d17bd6ff3d
+Size: 815212
+MD5sum: 766ee3bfdafc4af10141fb5c13f07471
+SHA1: feea9b97c5738ce30df06b56eded765ca45ca27a
+SHA256: a7cd34819ca63721cf3ea5a6b972bec3a184567bdc8ff97a45b6cf140aaf513e
 Section: Tweaks
 Description: Twinkle twinkle little star
-Author: alexandra <hiya@litten.love>
+Author: Litten <hiya@litten.love>
 Depiction: https://repo.litten.love/depictions/lne/index.html
 Icon: https://repo.litten.love/depictions/lne/assets/icon.png
 Name: Lune 🌙
