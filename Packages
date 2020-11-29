@@ -817,6 +817,25 @@ Icon: https://repo.litten.love/depictions/lia/assets/icon.png
 Name: Lobelias 💐
 Sileodepiction: https://repo.litten.love/depictions/lia/lia.json
 
+Package: love.litten.lune
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Litten <hiya@litten.love>
+Installed-Size: 1088
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13), ws.hbang.common (>= 1.14), love.litten.libkitten, com.spark.libsparkcolourpicker
+Filename: ./debs/love.litten.lune_1.0_iphoneos-arm.deb
+Size: 815210
+MD5sum: 913752473c23f977f36483b167a736ea
+SHA1: 69165b503407031fcbc3a6692c016f69f122474c
+SHA256: d7528dce618e1a4f7f5c9613b6af3f4fcc26e177c188ad42dfebe8d17bd6ff3d
+Section: Tweaks
+Description: Twinkle twinkle little star
+Author: alexandra <hiya@litten.love>
+Depiction: https://repo.litten.love/depictions/lne/index.html
+Icon: https://repo.litten.love/depictions/lne/assets/icon.png
+Name: Lune 🌙
+Sileodepiction: https://repo.litten.love/depictions/lne/lne.json
+
 Package: love.litten.nita
 Version: 1.0
 Architecture: iphoneos-arm

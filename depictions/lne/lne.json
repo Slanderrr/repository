@@ -1,0 +1,174 @@
+{
+    "class": "DepictionTabView",
+    "tabs": [{
+            "class": "DepictionStackView",
+            "tabname": "Details",
+            "views": [{
+                    "itemCornerRadius": 6,
+                    "class": "DepictionScreenshotsView",
+                    "itemSize": "{160, 275.41333333333336}",
+                    "screenshots": [{
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://repo.litten.love/depictions/lne/assets/ss1.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://repo.litten.love/depictions/lne/assets/ss2.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot2",
+                            "url": "https://repo.litten.love/depictions/lne/assets/ss3.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot3",
+                            "url": "https://repo.litten.love/depictions/lne/assets/ss4.png"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "title": "markdown-description",
+                    "useBoldText": true,
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Let a moon icon appear while do not disturb is enabled",
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title": "Version",
+                    "text": "1.0",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "11-29-2020",
+                    "title": "Last Time Updated"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "11-29-2020",
+                    "title": "Released"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "Litten",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "Twitter",
+                    "action": "https://twitter.com/Litteeen"
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "Reddit",
+                    "action": "https://reddit.com/user/strawberryLitten"
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "Github",
+                    "action": "https://github.com/Litteeen"
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "Features",
+            "views": [
+                {   
+                    "class": "DepictionSubheaderView",
+                    "title": "Icon",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- x position\r\n- y position\r\n- size\r\n- icon",
+                    "useSpacing": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {   
+                    "class": "DepictionSubheaderView",
+                    "title": "Color",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- custom color\r\n- artwork based color",
+                    "useSpacing": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {   
+                    "class": "DepictionSubheaderView",
+                    "title": "Glow",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- custom glow color\r\n- glow radius\r\n- glow alpha",
+                    "useSpacing": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {   
+                    "class": "DepictionSubheaderView",
+                    "title": "Background",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- background darkening\r\n- darkening amount",
+                    "useSpacing": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "Changelog",
+            "views": [
+                {   
+                    "class": "DepictionSubheaderView",
+                    "title": "Version 1.0",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Initial Release",
+                    "useSpacing": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                }
+            ]
+        }
+    ],
+    "headerImage": "https://repo.litten.love/depictions/lne/assets/Banner.png",
+    "tintColor": "#B5B9FC",
+    "minVersion": "0.1"
+}
