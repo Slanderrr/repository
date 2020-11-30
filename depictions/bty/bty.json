@@ -37,12 +37,12 @@
                 },
                 {
                     "title": "Version",
-                    "text": "1.0",
+                    "text": "1.1",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "09-29-2020",
+                    "text": "11-30-2020",
                     "title": "Last Time Updated"
                 },
                 {
@@ -140,6 +140,20 @@
                 {
                     "class": "DepictionSpacerView",
                     "spacing": 8
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Miscellaneous",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- use random color",
+                    "useSpacing": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
                 }
             ]
         },
@@ -147,6 +161,20 @@
             "class": "DepictionStackView",
             "tabname": "Changelog",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Version 1.1",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Added An Option To Use Random Colors",
+                    "useSpacing": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                }
                 {
                     "class": "DepictionSubheaderView",
                     "title": "Version 1.0",
