@@ -2,7 +2,6 @@
     "class": "DepictionTabView",
     "tabs": [{
             "class": "DepictionStackView",
-            "tabname": "Details",
             "views": [{
                     "itemCornerRadius": 6,
                     "class": "DepictionScreenshotsView",
@@ -53,7 +52,7 @@
                 },
                 {   
                     "class": "DepictionHeaderView",
-                    "title": "Version Latest Changes",
+                    "title": "Details",
                     "useBoldText": true
                 },
                 {
