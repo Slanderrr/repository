@@ -2,12 +2,13 @@
     "class": "DepictionTabView",
     "tabs": [{
             "class": "DepictionStackView",
-            "tabname": "Details",
+            "tabname": "Overview",
             "views": [{
                     "itemCornerRadius": 6,
                     "class": "DepictionScreenshotsView",
                     "itemSize": "{160, 275.41333333333336}",
-                    "screenshots": [{
+                    "screenshots": [
+                        {
                             "accessibilityText": "Screenshot0",
                             "url": "https://repo.litten.love/depictions/pck/assets/ss1.png"
                         },
@@ -25,40 +26,59 @@
                     "class": "DepictionSpacerView",
                     "spacing": 8
                 },
-                {
-                    "title": "markdown-description",
+                {   
+                    "class": "DepictionHeaderView",
+                    "title": "Long Description",
                     "useBoldText": true,
+                    "alignment": 1
+                },
+                {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Deep low power mode to prevent the need of rejailbreaking",
-                    "useBottomMargin": false
+                    "markdown": "Prevent the need of rejailbreaking"
                 },
                 {
                     "class": "DepictionSeparatorView"
                 },
+                {   
+                    "class": "DepictionHeaderView",
+                    "title": "Details",
+                    "useBoldText": true,
+                    "alignment": 1
+                },
                 {
-                    "title": "Version",
+                    "title": "Current Version",
                     "text": "1.1.1",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "11-13-2020",
+                    "text": "13.11.2020",
                     "title": "Last Time Updated"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "09-29-2020",
+                    "text": "29.09.2020",
                     "title": "Released"
                 },
-                {
+                {   
+                    "class": "DepictionTableTextView",
                     "title": "Price",
-                    "text": "Free",
-                    "class": "DepictionTableTextView"
+                    "text": "Free"
+                },
+                {   
+                    "class": "DepictionTableTextView",
+                    "title": "Compatibility",
+                    "text": "iOS 13 & 14"
+                },
+                {   
+                    "class": "DepictionTableTextView",
+                    "title": "Devices",
+                    "text": "All Devices Supported"
                 },
                 {
+                    "class": "DepictionTableTextView",
                     "title": "Developer",
-                    "text": "Litten",
-                    "class": "DepictionTableTextView"
+                    "text": "Litten"
                 },
                 {
                     "class": "DepictionSpacerView",
@@ -70,119 +90,17 @@
                     "action": "https://twitter.com/Litteeen"
                 },
                 {
-                    "class": "DepictionTableButtonView",
-                    "title": "Reddit",
-                    "action": "https://reddit.com/user/strawberryLitten"
-                },
-                {
-                    "class": "DepictionTableButtonView",
-                    "title": "Github",
-                    "action": "https://github.com/Litteeen"
-                }
-            ]
-        },
-        {
-            "class": "DepictionStackView",
-            "tabname": "Features",
-            "views": [
-                {   
-                    "class": "DepictionSubheaderView",
-                    "title": "Behavior",
-                    "useBoldText": true
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "- shutdown percentage\r\n- wake percentage\r\n- wake with volume up button\r\n- wake when plugged in\r\n- respring on wake",
-                    "useSpacing": false
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
+                    "class": "DepictionSeparatorView"
                 },
                 {   
-                    "class": "DepictionSubheaderView",
-                    "title": "Music",
-                    "useBoldText": true
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "- allow music playback\r\n- allow volume changes",
-                    "useSpacing": false
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                },
-                {   
-                    "class": "DepictionSubheaderView",
-                    "title": "Warning Notification",
-                    "useBoldText": true
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "- show warning notification\r\n- notification percentage",
-                    "useSpacing": false
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                },
-                {   
-                    "class": "DepictionSubheaderView",
-                    "title": "Calls",
-                    "useBoldText": true
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "- allow calls\r\n- shutdown after call ended",
-                    "useSpacing": false
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                }
-            ]
-        },
-        {
-            "class": "DepictionStackView",
-            "tabname": "Changelog",
-            "views": [
-                {   
-                    "class": "DepictionSubheaderView",
-                    "title": "Version 1.1.1",
-                    "useBoldText": true
+                    "class": "DepictionHeaderView",
+                    "title": "Latest Changes",
+                    "useBoldText": true,
+                    "alignment": 1
                 },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "- Added Credits",
-                    "useSpacing": false
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                },
-                {   
-                    "class": "DepictionSubheaderView",
-                    "title": "Version 1.1",
-                    "useBoldText": true
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "- Added Puck Activator Action Support",
-                    "useSpacing": false
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                },
-                {   
-                    "class": "DepictionSubheaderView",
-                    "title": "Version 1.0",
-                    "useBoldText": true
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "- Initial Release",
                     "useSpacing": false
                 },
                 {

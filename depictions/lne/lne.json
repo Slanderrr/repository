@@ -2,12 +2,13 @@
     "class": "DepictionTabView",
     "tabs": [{
             "class": "DepictionStackView",
-            "tabname": "Details",
+            "tabname": "Overview",
             "views": [{
                     "itemCornerRadius": 6,
                     "class": "DepictionScreenshotsView",
                     "itemSize": "{160, 275.41333333333336}",
-                    "screenshots": [{
+                    "screenshots": [
+                        {
                             "accessibilityText": "Screenshot0",
                             "url": "https://repo.litten.love/depictions/lne/assets/ss1.png"
                         },
@@ -29,40 +30,59 @@
                     "class": "DepictionSpacerView",
                     "spacing": 8
                 },
-                {
-                    "title": "markdown-description",
+                {   
+                    "class": "DepictionHeaderView",
+                    "title": "Long Description",
                     "useBoldText": true,
+                    "alignment": 1
+                },
+                {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Let a moon icon appear while do not disturb is enabled",
-                    "useBottomMargin": false
+                    "markdown": "Let a moon icon appear while do not disturb is enabled"
                 },
                 {
                     "class": "DepictionSeparatorView"
                 },
+                {   
+                    "class": "DepictionHeaderView",
+                    "title": "Details",
+                    "useBoldText": true,
+                    "alignment": 1
+                },
                 {
-                    "title": "Version",
-                    "text": "1.1.1",
+                    "title": "Current Version",
+                    "text": "1.1.2",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "11-30-2020",
+                    "text": "30.11.2020",
                     "title": "Last Time Updated"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "11-29-2020",
+                    "text": "29.11.2020",
                     "title": "Released"
                 },
-                {
+                {   
+                    "class": "DepictionTableTextView",
                     "title": "Price",
-                    "text": "Free",
-                    "class": "DepictionTableTextView"
+                    "text": "Free"
+                },
+                {   
+                    "class": "DepictionTableTextView",
+                    "title": "Compatibility",
+                    "text": "iOS 13 & 14"
+                },
+                {   
+                    "class": "DepictionTableTextView",
+                    "title": "Devices",
+                    "text": "All Devices Supported"
                 },
                 {
+                    "class": "DepictionTableTextView",
                     "title": "Developer",
-                    "text": "Litten",
-                    "class": "DepictionTableTextView"
+                    "text": "Litten"
                 },
                 {
                     "class": "DepictionSpacerView",
@@ -74,133 +94,17 @@
                     "action": "https://twitter.com/Litteeen"
                 },
                 {
-                    "class": "DepictionTableButtonView",
-                    "title": "Reddit",
-                    "action": "https://reddit.com/user/strawberryLitten"
+                    "class": "DepictionSeparatorView"
                 },
-                {
-                    "class": "DepictionTableButtonView",
-                    "title": "Github",
-                    "action": "https://github.com/Litteeen"
-                }
-            ]
-        },
-        {
-            "class": "DepictionStackView",
-            "tabname": "Features",
-            "views": [
                 {   
-                    "class": "DepictionSubheaderView",
-                    "title": "Icon",
-                    "useBoldText": true
+                    "class": "DepictionHeaderView",
+                    "title": "Latest Changes",
+                    "useBoldText": true,
+                    "alignment": 1
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- x position\r\n- y position\r\n- size\r\n- icon",
-                    "useSpacing": false
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                },
-                {   
-                    "class": "DepictionSubheaderView",
-                    "title": "Color",
-                    "useBoldText": true
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "- custom color\r\n- artwork based color",
-                    "useSpacing": false
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                },
-                {   
-                    "class": "DepictionSubheaderView",
-                    "title": "Glow",
-                    "useBoldText": true
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "- custom glow color\r\n- glow radius\r\n- glow alpha",
-                    "useSpacing": false
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                },
-                {   
-                    "class": "DepictionSubheaderView",
-                    "title": "Background",
-                    "useBoldText": true
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "- background darkening\r\n- darkening amount",
-                    "useSpacing": false
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                },
-                {   
-                    "class": "DepictionSubheaderView",
-                    "title": "Miscellaneous",
-                    "useBoldText": true
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "- hide dnd banner",
-                    "useSpacing": false
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                }
-            ]
-        },
-        {
-            "class": "DepictionStackView",
-            "tabname": "Changelog",
-            "views": [
-                {   
-                    "class": "DepictionSubheaderView",
-                    "title": "Version 1.1.1",
-                    "useBoldText": true
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "- Fixed Colorpicker",
-                    "useSpacing": false
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                },
-                {   
-                    "class": "DepictionSubheaderView",
-                    "title": "Version 1.1",
-                    "useBoldText": true
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "- Added An Option To Hide The DND Banner",
-                    "useSpacing": false
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                },
-                {   
-                    "class": "DepictionSubheaderView",
-                    "title": "Version 1.0",
-                    "useBoldText": true
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "- Initial Release",
+                    "markdown": "- Removed RoundLockScreen Support (Please Use RounderLS)\r\n- Added Higher Possible Glow Radius Amount",
                     "useSpacing": false
                 },
                 {

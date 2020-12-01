@@ -2,15 +2,16 @@
     "class": "DepictionTabView",
     "tabs": [{
             "class": "DepictionStackView",
-            "tabname": "Details",
+            "tabname": "Overview",
             "views": [{
                     "itemCornerRadius": 6,
                     "class": "DepictionScreenshotsView",
                     "itemSize": "{160, 275.41333333333336}",
-                    "screenshots": [{
+                    "screenshots": [
+                        {
                             "accessibilityText": "Screenshot0",
-                            "video": true,
-                            "url": "https://repo.litten.love/depictions/alk/assets/ss1.mov"
+                            "url": "https://repo.litten.love/depictions/alk/assets/ss1.png",
+                            "video": true
                         },
                         {
                             "accessibilityText": "Screenshot1",
@@ -26,40 +27,59 @@
                     "class": "DepictionSpacerView",
                     "spacing": 8
                 },
-                {
-                    "title": "markdown-description",
+                {   
+                    "class": "DepictionHeaderView",
+                    "title": "Long Description",
                     "useBoldText": true,
+                    "alignment": 1
+                },
+                {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Among us inspired passcode screen",
-                    "useBottomMargin": false
+                    "markdown": "Make your passcode screen look like the reactor task in among us"
                 },
                 {
                     "class": "DepictionSeparatorView"
                 },
+                {   
+                    "class": "DepictionHeaderView",
+                    "title": "Details",
+                    "useBoldText": true,
+                    "alignment": 1
+                },
                 {
-                    "title": "Version",
+                    "title": "Current Version",
                     "text": "1.1.1",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "11-28-2020",
+                    "text": "28.11.2020",
                     "title": "Last Time Updated"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "11-25-2020",
+                    "text": "08.11.2020",
                     "title": "Released"
                 },
-                {
+                {   
+                    "class": "DepictionTableTextView",
                     "title": "Price",
-                    "text": "Free",
-                    "class": "DepictionTableTextView"
+                    "text": "Free"
+                },
+                {   
+                    "class": "DepictionTableTextView",
+                    "title": "Compatibility",
+                    "text": "iOS 13 & 14"
+                },
+                {   
+                    "class": "DepictionTableTextView",
+                    "title": "Devices",
+                    "text": "All Devices Supported"
                 },
                 {
+                    "class": "DepictionTableTextView",
                     "title": "Developer",
-                    "text": "Litten",
-                    "class": "DepictionTableTextView"
+                    "text": "Litten"
                 },
                 {
                     "class": "DepictionSpacerView",
@@ -71,189 +91,17 @@
                     "action": "https://twitter.com/Litteeen"
                 },
                 {
-                    "class": "DepictionTableButtonView",
-                    "title": "Reddit",
-                    "action": "https://reddit.com/user/strawberryLitten"
-                },
-                {
-                    "class": "DepictionTableButtonView",
-                    "title": "Github",
-                    "action": "https://github.com/Litteeen"
-                }
-            ]
-        },
-        {
-            "class": "DepictionStackView",
-            "tabname": "Features",
-            "views": [
-                {   
-                    "class": "DepictionSubheaderView",
-                    "title": "Background Video",
-                    "useBoldText": true
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "- Enable\r\n- Use As Wallpaper",
-                    "useSpacing": false
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
+                    "class": "DepictionSeparatorView"
                 },
                 {   
-                    "class": "DepictionSubheaderView",
-                    "title": "Ejection Video",
-                    "useBoldText": true
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "- Enable",
-                    "useSpacing": false
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                },
-                {   
-                    "class": "DepictionSubheaderView",
-                    "title": "Bulbs",
-                    "useBoldText": true
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "- Enable",
-                    "useSpacing": false
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                },
-                {   
-                    "class": "DepictionSubheaderView",
-                    "title": "Passcode",
-                    "useBoldText": true
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "- Theme Passcode\r\n- Wrong Passcode Animation",
-                    "useSpacing": false
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                },
-                {   
-                    "class": "DepictionSubheaderView",
-                    "title": "Audio",
-                    "useBoldText": true
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "- Passcode Appears\r\n- Passcode Disappears\r\n- Wrong Passcode\r\n- Passcode Button Press",
-                    "useSpacing": false
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                },
-                {   
-                    "class": "DepictionSubheaderView",
-                    "title": "Hiding",
-                    "useBoldText": true
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "- Hide Emergency Call Button\r\n- Hide Backspace/Cancel Button\r\n- Hide FaceID Animation",
-                    "useSpacing": false
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                },
-                {   
-                    "class": "DepictionSubheaderView",
-                    "title": "Miscellaneous",
-                    "useBoldText": true
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "- Tap To Skip Ejection\r\n- Change Frame When Rotating",
-                    "useSpacing": false
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                }
-            ]
-        },
-        {
-            "class": "DepictionStackView",
-            "tabname": "Changelog",
-            "views": [
-                {   
-                    "class": "DepictionSubheaderView",
-                    "title": "Version 1.1.1",
-                    "useBoldText": true
+                    "class": "DepictionHeaderView",
+                    "title": "Latest Changes",
+                    "useBoldText": true,
+                    "alignment": 1
                 },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "- Fixed Wallpaper Appearing Even If Disabled",
-                    "useSpacing": false
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                },
-                {   
-                    "class": "DepictionSubheaderView",
-                    "title": "Version 1.1",
-                    "useBoldText": true
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "- Added Customization Options\r\n- Add Rotation Support\r\n- Stop Wallpaper When Locked To Save Battery",
-                    "useSpacing": false
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                },
-                {   
-                    "class": "DepictionSubheaderView",
-                    "title": "Version 1.0.2",
-                    "useBoldText": true
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "- Fixed Background Video Stopping Music When Used As Wallpaper",
-                    "useSpacing": false
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                },
-                {   
-                    "class": "DepictionSubheaderView",
-                    "title": "Version 1.0.1",
-                    "useBoldText": true
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "- Fixed A Crash When The User Tried To Record The Lockscreen",
-                    "useSpacing": false
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                },
-                {   
-                    "class": "DepictionSubheaderView",
-                    "title": "Version 1.0",
-                    "useBoldText": true
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "- Initial Release",
                     "useSpacing": false
                 },
                 {

@@ -2,7 +2,7 @@
     "class": "DepictionTabView",
     "tabs": [{
             "class": "DepictionStackView",
-            "tabname": "Details",
+            "tabname": "Overview",
             "views": [{
                     "itemCornerRadius": 6,
                     "class": "DepictionScreenshotsView",
@@ -12,40 +12,59 @@
                     "class": "DepictionSpacerView",
                     "spacing": 8
                 },
-                {
-                    "title": "markdown-description",
+                {   
+                    "class": "DepictionHeaderView",
+                    "title": "Long Description",
                     "useBoldText": true,
+                    "alignment": 1
+                },
+                {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Library to get three different colors from an image and detect if one is light or dark",
-                    "useBottomMargin": false
+                    "markdown": "Library to get three different colors from an image and detect if one is light or dark"
                 },
                 {
                     "class": "DepictionSeparatorView"
                 },
+                {   
+                    "class": "DepictionHeaderView",
+                    "title": "Details",
+                    "useBoldText": true,
+                    "alignment": 1
+                },
                 {
-                    "title": "Version",
+                    "title": "Current Version",
                     "text": "1.1",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "11-16-2020",
+                    "text": "16.11.2020",
                     "title": "Last Time Updated"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "09-12-2020",
+                    "text": "12.09.2020",
                     "title": "Released"
                 },
-                {
+                {   
+                    "class": "DepictionTableTextView",
                     "title": "Price",
-                    "text": "Free",
-                    "class": "DepictionTableTextView"
+                    "text": "Free"
+                },
+                {   
+                    "class": "DepictionTableTextView",
+                    "title": "Compatibility",
+                    "text": "iOS 13 & 14"
+                },
+                {   
+                    "class": "DepictionTableTextView",
+                    "title": "Devices",
+                    "text": "All Devices Supported"
                 },
                 {
+                    "class": "DepictionTableTextView",
                     "title": "Developer",
-                    "text": "Litten",
-                    "class": "DepictionTableTextView"
+                    "text": "Litten"
                 },
                 {
                     "class": "DepictionSpacerView",
@@ -57,43 +76,17 @@
                     "action": "https://twitter.com/Litteeen"
                 },
                 {
-                    "class": "DepictionTableButtonView",
-                    "title": "Reddit",
-                    "action": "https://reddit.com/user/strawberryLitten"
+                    "class": "DepictionSeparatorView"
                 },
-                {
-                    "class": "DepictionTableButtonView",
-                    "title": "Github",
-                    "action": "https://github.com/Litteeen"
-                }
-            ]
-        },
-        {
-            "class": "DepictionStackView",
-            "tabname": "Changelog",
-            "views": [
                 {   
-                    "class": "DepictionSubheaderView",
-                    "title": "Version 1.1",
-                    "useBoldText": true
+                    "class": "DepictionHeaderView",
+                    "title": "Latest Changes",
+                    "useBoldText": true,
+                    "alignment": 1
                 },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "- Added Light/Dark Image Detection",
-                    "useSpacing": false
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                },
-                {   
-                    "class": "DepictionSubheaderView",
-                    "title": "Version 1.0",
-                    "useBoldText": true
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "- Initial Release",
                     "useSpacing": false
                 },
                 {

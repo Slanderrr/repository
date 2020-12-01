@@ -76,15 +76,25 @@
                     "text": "06.09.2020",
                     "title": "Released"
                 },
-                {
+                {   
+                    "class": "DepictionTableTextView",
                     "title": "Price",
-                    "text": "Free",
-                    "class": "DepictionTableTextView"
+                    "text": "Free"
+                },
+                {   
+                    "class": "DepictionTableTextView",
+                    "title": "Compatibility",
+                    "text": "iOS 13 & 14"
+                },
+                {   
+                    "class": "DepictionTableTextView",
+                    "title": "Devices",
+                    "text": "All Devices Supported"
                 },
                 {
+                    "class": "DepictionTableTextView",
                     "title": "Developer",
-                    "text": "Litten",
-                    "class": "DepictionTableTextView"
+                    "text": "Litten"
                 },
                 {
                     "class": "DepictionSpacerView",
