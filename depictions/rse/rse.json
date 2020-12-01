@@ -10,19 +10,19 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
-                            "url": "https://repo.litten.love/depictions/vio/assets/ss1.png"
+                            "url": "https://repo.litten.love/depictions/rse/assets/ss1.png"
                         },
                         {
                             "accessibilityText": "Screenshot1",
-                            "url": "https://repo.litten.love/depictions/vio/assets/ss2.png"
+                            "url": "https://repo.litten.love/depictions/rse/assets/ss2.png"
                         },
                         {
                             "accessibilityText": "Screenshot2",
-                            "url": "https://repo.litten.love/depictions/vio/assets/ss3.png"
+                            "url": "https://repo.litten.love/depictions/rse/assets/ss3.png"
                         },
                         {
                             "accessibilityText": "Screenshot3",
-                            "url": "https://repo.litten.love/depictions/vio/assets/ss4.png"
+                            "url": "https://repo.litten.love/depictions/rse/assets/ss4.png"
                         }
                     ]
                 },
@@ -77,7 +77,7 @@
                 {   
                     "class": "DepictionTableTextView",
                     "title": "Devices",
-                    "text": "All Devices Supported"
+                    "text": "Only iPhone"
                 },
                 {
                     "class": "DepictionTableTextView",
@@ -114,7 +114,7 @@
             ]
         }
     ],
-    "headerImage": "https://repo.litten.love/depictions/vio/assets/Banner.png",
+    "headerImage": "https://repo.litten.love/depictions/rse/assets/Banner.png",
     "tintColor": "#9EACFA",
     "minVersion": "0.1"
 }
