@@ -2,6 +2,7 @@
     "class": "DepictionTabView",
     "tabs": [{
             "class": "DepictionStackView",
+            "tabname": "Overview",
             "views": [{
                     "itemCornerRadius": 6,
                     "class": "DepictionScreenshotsView",
@@ -41,6 +42,11 @@
                     "spacing": 8
                 },
                 {
+                    "class": "DepictionLabelView",
+                    "text": "Long Description",
+                    "alignment": 1
+                },
+                {
                     "title": "markdown-description",
                     "useBoldText": true,
                     "class": "DepictionMarkdownView",
@@ -53,7 +59,8 @@
                 {   
                     "class": "DepictionHeaderView",
                     "title": "Details",
-                    "useBoldText": true
+                    "useBoldText": true,
+                    "alignment": 1
                 },
                 {
                     "title": "Version",
@@ -62,12 +69,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "01-12-2020",
+                    "text": "01.12.2020",
                     "title": "Last Time Updated"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "09-06-2020",
+                    "text": "09.06.2020",
                     "title": "Released"
                 },
                 {
@@ -105,7 +112,8 @@
                 {   
                     "class": "DepictionHeaderView",
                     "title": "Latest Changes",
-                    "useBoldText": true
+                    "useBoldText": true,
+                    "alignment": 1
                 },
                 {   
                     "class": "DepictionSubheaderView",
