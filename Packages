@@ -606,6 +606,25 @@ Icon: https://repo.litten.love/depictions/drs/assets/icon.png
 Name: Dress 👗
 Sileodepiction: https://repo.litten.love/depictions/drs/drs.json
 
+Package: love.litten.dress
+Version: 2.4
+Architecture: iphoneos-arm
+Maintainer: Litten <hiya@litten.love>
+Installed-Size: 1256
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.spark.libsparkcolourpicker
+Filename: ./debs/love.litten.dress_2.4_iphoneos-arm.deb
+Size: 480656
+MD5sum: 7cb3d6c42959f4e7d164ef7e12bcd3e0
+SHA1: c075b1679f9902113b008ffe75ca60975e502692
+SHA256: a775877ba7ab0d142476fa6db6d73e96ce1d36fc39205bcc0230419678d0a354
+Section: Tweaks
+Description: Dress up your lockscreen
+Author: Litten <hiya@litten.love>
+Depiction: https://repo.litten.love/depictions/drs/index.html
+Icon: https://repo.litten.love/depictions/drs/assets/icon.png
+Name: Dress 👗
+Sileodepiction: https://repo.litten.love/depictions/drs/drs.json
+
 Package: love.litten.libkitten
 Version: 1.0
 Architecture: iphoneos-arm
@@ -874,6 +893,25 @@ Icon: https://repo.litten.love/depictions/lia/assets/icon.png
 Name: Lobelias 💐
 Sileodepiction: https://repo.litten.love/depictions/lia/lia.json
 
+Package: love.litten.lobelias
+Version: 1.1.3
+Architecture: iphoneos-arm
+Maintainer: Litten <hiya@litten.love>
+Installed-Size: 1584
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.spark.libsparkcolourpicker, love.litten.libkitten
+Filename: ./debs/love.litten.lobelias_1.1.3_iphoneos-arm.deb
+Size: 1101720
+MD5sum: 7f3c1d34e6cd50e68f353db08720c8d7
+SHA1: ba0b5455048824a9e21d2a479fd181798e4225cf
+SHA256: 3e8eb0445176f1df2c5248dcaa5f347065c716d88bd120716f089f4b7be3445d
+Section: Tweaks
+Description: Redesign your lockscreen player
+Author: Litten <hiya@litten.love>
+Depiction: https://repo.litten.love/depictions/lia/index.html
+Icon: https://repo.litten.love/depictions/lia/assets/icon.png
+Name: Lobelias 💐
+Sileodepiction: https://repo.litten.love/depictions/lia/lia.json
+
 Package: love.litten.lune
 Version: 1.0
 Architecture: iphoneos-arm
@@ -923,6 +961,25 @@ Size: 815654
 MD5sum: 3f6913a06622e4a328dd89279d4231fa
 SHA1: 5fb548240e14b057c1fbcf6f9e29ec5ea451cbca
 SHA256: bad210034f204e6af8de28e46a6a8277c7f07e91c92f8a01859f86b95a560d05
+Section: Tweaks
+Description: Twinkle twinkle little star
+Author: Litten <hiya@litten.love>
+Depiction: https://repo.litten.love/depictions/lne/index.html
+Icon: https://repo.litten.love/depictions/lne/assets/icon.png
+Name: Lune 🌙
+Sileodepiction: https://repo.litten.love/depictions/lne/lne.json
+
+Package: love.litten.lune
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: Litten <hiya@litten.love>
+Installed-Size: 1088
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13), ws.hbang.common (>= 1.14), love.litten.libkitten, com.spark.libsparkcolourpicker
+Filename: ./debs/love.litten.lune_1.1.2_iphoneos-arm.deb
+Size: 815250
+MD5sum: 4c3cc9f22048a2f31835a5872508b1d1
+SHA1: 0e4de3164f5abb396cd2d7d268bff350330a0cb6
+SHA256: eb1aace0b4343bed0601c60a2ff3e3bc61e7562062c1f7cfb35a4822e5ec719d
 Section: Tweaks
 Description: Twinkle twinkle little star
 Author: Litten <hiya@litten.love>
@@ -1322,6 +1379,25 @@ Size: 724524
 MD5sum: 0d1dce1475dd5687baf7beea1d6a21df
 SHA1: fae10eb309f53fe3bae9314e4a46292d34483361
 SHA256: 6a327a5c4bfcf598ab713a8d8fcb38da0b2194ddf6ddc5bc504800c62304183e
+Section: Tweaks
+Description: Sweet addition to your wallpaper
+Author: Litten <hiya@litten.love>
+Depiction: https://repo.litten.love/depictions/vio/index.html
+Icon: https://repo.litten.love/depictions/vio/assets/icon.png
+Name: Violet 🎀
+Sileodepiction: https://repo.litten.love/depictions/vio/vio.json
+
+Package: love.litten.violet
+Version: 1.4.2
+Architecture: iphoneos-arm
+Maintainer: Litten <hiya@litten.love>
+Installed-Size: 1472
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./debs/love.litten.violet_1.4.2_iphoneos-arm.deb
+Size: 723710
+MD5sum: 3549d02270c2fe852029e4c44094a508
+SHA1: 85d42efe11b95488a8296edf56544ddda6d483ce
+SHA256: 11eaccbdd8cc8d57a3950040e132660718652df25350b36b3b10a3c48af3dced
 Section: Tweaks
 Description: Sweet addition to your wallpaper
 Author: Litten <hiya@litten.love>
