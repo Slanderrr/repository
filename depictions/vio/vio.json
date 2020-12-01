@@ -68,7 +68,7 @@
                     "alignment": 1
                 },
                 {
-                    "title": "Version",
+                    "title": "Current Version",
                     "text": "1.4.2",
                     "class": "DepictionTableTextView"
                 },
@@ -111,9 +111,10 @@
                     "alignment": 1
                 },
                 {   
-                    "class": "DepictionSubheaderView",
+                    "class": "DepictionLabelView",
                     "title": "Version 1.4.2",
-                    "useBoldText": true
+                    "fontWeight": "semibold",
+                    "alignment": 1
                 },
                 {
                     "class": "DepictionMarkdownView",
