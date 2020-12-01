@@ -4,11 +4,6 @@
             "class": "DepictionStackView",
             "tabname": "Overview",
             "views": [{
-                    "class": "DepictionLabelView",
-                    "text": "Sweet addition to your wallpaper",
-                    "alignment": 1
-                    },
-                    {
                     "itemCornerRadius": 6,
                     "class": "DepictionScreenshotsView",
                     "itemSize": "{160, 275.41333333333336}",
