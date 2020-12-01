@@ -54,9 +54,8 @@
                     "alignment": 1
                 },
                 {
-                    "class": "DepictionLabelView",
-                    "text": "Show the artwork of your current playing song on more areas than just the music app itself",
-                    "alignment": 1
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Show the artwork of your current playing song on more areas than just the music app itself"
                 },
                 {
                     "class": "DepictionSeparatorView"
@@ -111,10 +110,9 @@
                     "alignment": 1
                 },
                 {   
-                    "class": "DepictionLabelView",
+                    "class": "DepictionSubheaderView",
                     "title": "Version 1.4.2",
-                    "fontWeight": "semibold",
-                    "alignment": 1
+                    "useBoldText": true
                 },
                 {
                     "class": "DepictionMarkdownView",
