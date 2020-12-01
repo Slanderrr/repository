@@ -4,10 +4,16 @@
             "class": "DepictionStackView",
             "tabname": "Overview",
             "views": [{
+                    "class": "DepictionLabelView",
+                    "text": "Sweet addition to your wallpaper",
+                    "alignment": 1
+                    },
+                    {
                     "itemCornerRadius": 6,
                     "class": "DepictionScreenshotsView",
                     "itemSize": "{160, 275.41333333333336}",
-                    "screenshots": [{
+                    "screenshots": [
+                        {
                             "accessibilityText": "Screenshot0",
                             "url": "https://repo.litten.love/depictions/vio/assets/ss1.png"
                         },
@@ -41,17 +47,16 @@
                     "class": "DepictionSpacerView",
                     "spacing": 8
                 },
-                {
-                    "class": "DepictionLabelView",
-                    "text": "Long Description",
+                {   
+                    "class": "DepictionHeaderView",
+                    "title": "Long Description",
+                    "useBoldText": true,
                     "alignment": 1
                 },
                 {
-                    "title": "markdown-description",
-                    "useBoldText": true,
-                    "class": "DepictionMarkdownView",
-                    "markdown": "Show the artwork of your current playing song on more areas than just the music app itself",
-                    "useBottomMargin": false
+                    "class": "DepictionLabelView",
+                    "text": "Show the artwork of your current playing song on more areas than just the music app itself",
+                    "alignment": 1
                 },
                 {
                     "class": "DepictionSeparatorView"
@@ -74,7 +79,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "09.06.2020",
+                    "text": "06.09.2020",
                     "title": "Released"
                 },
                 {
@@ -95,16 +100,6 @@
                     "class": "DepictionTableButtonView",
                     "title": "Twitter",
                     "action": "https://twitter.com/Litteeen"
-                },
-                {
-                    "class": "DepictionTableButtonView",
-                    "title": "Reddit",
-                    "action": "https://reddit.com/user/strawberryLitten"
-                },
-                {
-                    "class": "DepictionTableButtonView",
-                    "title": "Github",
-                    "action": "https://github.com/Litteeen"
                 },
                 {
                     "class": "DepictionSeparatorView"
