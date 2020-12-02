@@ -102,7 +102,12 @@
                 },
                 {
                     "class": "DepictionTableButtonView",
-                    "title": "Twitter",
+                    "title": "0xCC's Twitter",
+                    "action": "https://twitter.com/woodfairyd"
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "Litten's Twitter",
                     "action": "https://twitter.com/Litteeen"
                 },
                 {
