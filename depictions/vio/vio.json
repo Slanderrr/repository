@@ -63,12 +63,12 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.4.2",
+                    "text": "1.4.3",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "01.12.2020",
+                    "text": "02.12.2020",
                     "title": "Last Time Updated"
                 },
                 {
@@ -121,7 +121,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Removed RoundLockScreen Support (Please Use RounderLS)\r\n- Add The Possibility To Add The Artwork To The Lockscreen Player Without Hiding The Background",
+                    "markdown": "- Fixed Sylph Compatibility",
                     "useSpacing": false
                 },
                 {
