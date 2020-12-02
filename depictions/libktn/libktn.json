@@ -15,8 +15,7 @@
                 {   
                     "class": "DepictionHeaderView",
                     "title": "Long Description",
-                    "useBoldText": true,
-                    "alignment": 1
+                    "useBoldText": true
                 },
                 {
                     "class": "DepictionMarkdownView",
@@ -28,8 +27,7 @@
                 {   
                     "class": "DepictionHeaderView",
                     "title": "Details",
-                    "useBoldText": true,
-                    "alignment": 1
+                    "useBoldText": true
                 },
                 {
                     "title": "Current Version",
@@ -72,7 +70,7 @@
                 },
                 {
                     "class": "DepictionTableButtonView",
-                    "title": "Twitter",
+                    "title": "Litten's Twitter",
                     "action": "https://twitter.com/Litteeen"
                 },
                 {
@@ -81,8 +79,7 @@
                 {   
                     "class": "DepictionHeaderView",
                     "title": "Latest Changes",
-                    "useBoldText": true,
-                    "alignment": 1
+                    "useBoldText": true
                 },
                 {
                     "class": "DepictionMarkdownView",
@@ -92,6 +89,11 @@
                 {
                     "class": "DepictionSpacerView",
                     "spacing": 8
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "View Full Changelog",
+                    "action": "https://repo.litten.love/depictions/libktn/fullChangelog.html"
                 }
             ]
         }
