@@ -61,12 +61,12 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.1",
+                    "text": "1.1.1",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "20.11.2020",
+                    "text": "03.12.2020",
                     "title": "Last Time Updated"
                 },
                 {
@@ -92,7 +92,7 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "Developer",
-                    "text": "0xCC & Litten"
+                    "text": "woodfairyd & Litten"
                 },
                 {
                     "class": "DepictionSpacerView",
@@ -100,7 +100,7 @@
                 },
                 {
                     "class": "DepictionTableButtonView",
-                    "title": "0xCC's Twitter",
+                    "title": "woodfairyd's Twitter",
                     "action": "https://twitter.com/woodfairyd"
                 },
                 {
@@ -118,7 +118,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Added Menu Coloring\r\n- Added More Customization\r\n- Fixed Crashes When Force Touching Widgets And Shortcuts",
+                    "markdown": "- Added Support For The Latest Version Of libKitten",
                     "useSpacing": false
                 },
                 {
