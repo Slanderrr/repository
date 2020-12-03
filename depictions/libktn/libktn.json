@@ -52,7 +52,7 @@
                 {   
                     "class": "DepictionTableTextView",
                     "title": "Compatibility",
-                    "text": "iOS 13 & 14"
+                    "text": "iOS 12, 13 & 14"
                 },
                 {   
                     "class": "DepictionTableTextView",
