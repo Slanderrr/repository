@@ -31,12 +31,12 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.1",
+                    "text": "1.1.1",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "16.11.2020",
+                    "text": "03.12.2020",
                     "title": "Last Time Updated"
                 },
                 {
@@ -83,7 +83,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Added Light/Dark Image Detection",
+                    "markdown": "- Better Memory Management",
                     "useSpacing": false
                 },
                 {

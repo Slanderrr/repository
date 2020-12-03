@@ -665,6 +665,26 @@ Icon: https://repo.litten.love/depictions/libktn/assets/icon.png
 Name: libKitten 🐱
 Sileodepiction: https://repo.litten.love/depictions/libktn/libktn.json
 
+Package: love.litten.libkitten
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: Litten <hiya@litten.love>
+Installed-Size: 172
+Depends: firmware (>= 12.0)
+Filename: ./debs/love.litten.libkitten_1.1.1_iphoneos-arm.deb
+Size: 9946
+MD5sum: b911921ed08253ae48c7a133f7509aee
+SHA1: 24dea08d325b5e3ebd3509b390237b024b8c19d5
+SHA256: 3f43aca9bee92532d2e55595bb29d2ec995cc7c861aedee141519b2c931f6e32
+Section: System
+Description: Library to get three different colors from an image and detect if one is light or dark
+Tag: role::developer
+Author: Litten <hiya@litten.love>
+Depiction: https://repo.litten.love/depictions/libktn/index.html
+Icon: https://repo.litten.love/depictions/libktn/assets/icon.png
+Name: libKitten 🐱
+Sileodepiction: https://repo.litten.love/depictions/libktn/libktn.json
+
 Package: love.litten.lisa
 Version: 1.0
 Architecture: iphoneos-arm
@@ -912,6 +932,25 @@ Icon: https://repo.litten.love/depictions/lia/assets/icon.png
 Name: Lobelias 💐
 Sileodepiction: https://repo.litten.love/depictions/lia/lia.json
 
+Package: love.litten.lobelias
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Litten <hiya@litten.love>
+Installed-Size: 1664
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.spark.libsparkcolourpicker, love.litten.libkitten
+Filename: ./debs/love.litten.lobelias_1.2_iphoneos-arm.deb
+Size: 1125796
+MD5sum: 9b1d6823e7b838d1732ca29324efb421
+SHA1: 415adad0b7f0a0ae23978943c639c2fb86a3ca23
+SHA256: 98e234028e73f8f99bc92a376af7e41fde393393e1a3956aabf5fd25bb469c6d
+Section: Tweaks
+Description: Redesign your lockscreen player
+Author: Litten <hiya@litten.love>
+Depiction: https://repo.litten.love/depictions/lia/index.html
+Icon: https://repo.litten.love/depictions/lia/assets/icon.png
+Name: Lobelias 💐
+Sileodepiction: https://repo.litten.love/depictions/lia/lia.json
+
 Package: love.litten.lune
 Version: 1.0
 Architecture: iphoneos-arm
@@ -980,6 +1019,25 @@ Size: 815250
 MD5sum: 4c3cc9f22048a2f31835a5872508b1d1
 SHA1: 0e4de3164f5abb396cd2d7d268bff350330a0cb6
 SHA256: eb1aace0b4343bed0601c60a2ff3e3bc61e7562062c1f7cfb35a4822e5ec719d
+Section: Tweaks
+Description: Twinkle twinkle little star
+Author: Litten <hiya@litten.love>
+Depiction: https://repo.litten.love/depictions/lne/index.html
+Icon: https://repo.litten.love/depictions/lne/assets/icon.png
+Name: Lune 🌙
+Sileodepiction: https://repo.litten.love/depictions/lne/lne.json
+
+Package: love.litten.lune
+Version: 1.1.3
+Architecture: iphoneos-arm
+Maintainer: Litten <hiya@litten.love>
+Installed-Size: 1088
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13), ws.hbang.common (>= 1.14), love.litten.libkitten, com.spark.libsparkcolourpicker
+Filename: ./debs/love.litten.lune_1.1.3_iphoneos-arm.deb
+Size: 815126
+MD5sum: 22cdf8c7db08fff839ae36fdf3c93f2a
+SHA1: 6f0d9bb9181ba139ed444a2079546dca453ea27f
+SHA256: 7bf429163a506317811e3dc25bc99ec571e02de11d9611116e906969f3b44dc4
 Section: Tweaks
 Description: Twinkle twinkle little star
 Author: Litten <hiya@litten.love>
