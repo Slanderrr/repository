@@ -57,7 +57,7 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.2",
+                    "text": "1.2.1",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -109,7 +109,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Improved Auto-Layout For Better Integration (@MrGCGamer)\r\n- Made Label Auto Scroll For Long Song Titles & Artist Names\r\n- Support For The Latest Version Of libKitten",
+                    "markdown": "- Added Spaces After Label Content",
                     "useSpacing": false
                 },
                 {
