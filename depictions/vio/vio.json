@@ -61,12 +61,12 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.4.3",
+                    "text": "1.4.4",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "02.12.2020",
+                    "text": "04.12.2020",
                     "title": "Last Time Updated"
                 },
                 {
@@ -111,14 +111,9 @@
                     "title": "Latest Changes",
                     "useBoldText": true
                 },
-                {   
-                    "class": "DepictionSubheaderView",
-                    "title": "Version 1.4.2",
-                    "useBoldText": true
-                },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Fixed Sylph Compatibility",
+                    "markdown": "- Reversed 1.4.1 Changes",
                     "useSpacing": false
                 },
                 {
