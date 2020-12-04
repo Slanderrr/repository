@@ -53,12 +53,12 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "2.4",
+                    "text": "2.4.1",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "01.12.2020",
+                    "text": "04.12.2020",
                     "title": "Last Time Updated"
                 },
                 {
@@ -105,7 +105,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Added FontPicker\r\n- Removed ColorFlow Support\r\n- Removed Weather Unlock Text",
+                    "markdown": "- Added Tweak Detection Back",
                     "useSpacing": false
                 },
                 {
