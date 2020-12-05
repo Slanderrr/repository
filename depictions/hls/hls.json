@@ -49,17 +49,17 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.4.4",
+                    "text": "1.0",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "xx.12.2020",
+                    "text": "05.12.2020",
                     "title": "Last Time Updated"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "xx.12.2020",
+                    "text": "05.12.2020",
                     "title": "Released"
                 },
                 {   
