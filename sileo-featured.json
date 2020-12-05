@@ -4,6 +4,12 @@
    "itemCornerRadius":10,
    "banners":[
       {  
+         "url":"https://repo.litten.love/depictions/hls/assets/Banner.png",
+         "title":"Heartlines",
+         "package":"love.litten.heartlines",
+         "hideShadow":true
+      },
+      {  
          "url":"https://repo.litten.love/depictions/vio/assets/Banner.png",
          "title":"Violet",
          "package":"love.litten.violet",
