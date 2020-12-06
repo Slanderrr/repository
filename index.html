@@ -58,104 +58,6 @@
 
         }
 
-        .navigationBar .container {
-
-            width: 100%;
-            height: 50px;
-            background-color: rgba(255, 255, 255, 0.7);
-            position: absolute;
-            border-bottom: 2px solid #F2E2B6;
-
-        }
-
-        .navigationBar .container .navigationBarHeader {
-
-            height: 100%;
-            width: auto;
-            margin-left: 25px;
-            position: absolute;
-
-        }
-
-        .navigationBar .container .navigationBarHeader img {
-
-            position: absolute;
-            height: 100%;
-            width: auto;
-
-        }
-
-        .navigationBar .container .navigationBarHeader h1 {
-
-            position: relative;
-            vertical-align: middle;
-            font-size: 17px;
-            margin-left: 70px;
-
-        }
-
-        .navigationBar .container .linkList  {
-
-            margin: 0;
-            padding: 0;
-            text-align: right;
-            transform: translateY(15px);
-            margin-right: 25px;
-
-        }
-
-        .navigationBar .container .linkList li {
-
-            text-decoration: none;
-            list-style: none;
-            display: inline;
-            position: relative;
-            padding: 10px;
-
-        }
-
-        .navigationBar .container .linkList li a {
-
-            color: #000;
-            font-weight: 600;
-            text-decoration: underline;
-
-        }
-
-        .navigationBar .container .linkList li a:hover {
-
-            cursor: pointer;
-
-        }
-
-        .navigationBar .container .tweakList {
-
-            margin: 0;
-            padding: 0;
-            text-align: right;
-            transform: translateY(-18px);
-            font-size: 0;
-            visibility: hidden;
-            opacity: 0;
-
-        }
-
-        .navigationBar .container .tweakList li {
-
-            display: inline;
-            list-style: none;
-            padding: 0px;
-
-        }
-
-        .navigationBar .container .tweakList li a img {
-
-            position: relative;
-            height: 100%;
-            width: auto;
-
-        }
-
         .home .container {
 
             text-align: center;
@@ -279,24 +181,6 @@
 
             }
 
-            .navigationBar .container {
-
-                background-color: rgba(0, 0, 0, 0.7);
-
-            }
-
-            .navigationBar .container .navigationBarHeader h1 {
-
-                color: #ffffff;
-
-            }
-
-            .navigationBar .container .linkList li a {
-
-                color: #ffffff;
-
-            }
-
             .home .container h1 {
 
                 color: #fff;
@@ -319,24 +203,6 @@
 
         </div>
     </div>
-
-    <div class="navigationBar" id="navigationBar">
-        <div class="container">
-
-            <div class="navigationBarHeader">
-                <img src="CydiaIcon.png">
-                <h1>Litten's Wondercafé ☕️🌸</h1>
-            </div>
-
-            <ul class="linkList">
-                <li><a href="https://twitter.com/intent/follow?screen_name=litteeen">Twitter</a></li>
-                <li><a href="https://www.reddit.com/user/strawberryLitten">Reddit</a></li>
-                <li><a href="https://github.com/Litteeen">GitHub</a></li>
-                <li><a href="https://discord.gg/fPHN8KG">Discord</a></li>
-            </ul>
-
-        </div>
-    </div>
     
     <div class="home">
         <div class="container">
@@ -350,7 +216,6 @@
 
         if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
             document.getElementById('wallpaper').src = "assets/wallpaperMobile.mp4";
-            document.getElementById('navigationBar').style.display = "none";
         } else {
             document.getElementById('wallpaper').src = "assets/wallpaperDesktop.mp4";
         }
