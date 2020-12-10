@@ -53,12 +53,12 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.3.2",
+                    "text": "1.3.3",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "15.11.2020",
+                    "text": "10.12.2020",
                     "title": "Last Time Updated"
                 },
                 {
@@ -105,7 +105,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Reversed 1.3.1 Changes",
+                    "markdown": "- Tiny Visual Package Update",
                     "useSpacing": false
                 },
                 {

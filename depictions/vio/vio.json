@@ -61,12 +61,12 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.4.4",
+                    "text": "1.4.5",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "04.12.2020",
+                    "text": "10.12.2020",
                     "title": "Last Time Updated"
                 },
                 {
@@ -113,7 +113,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Reversed 1.4.1 Changes",
+                    "markdown": "- Tiny Visual Package Update",
                     "useSpacing": false
                 },
                 {

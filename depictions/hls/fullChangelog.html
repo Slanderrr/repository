@@ -12,15 +12,34 @@
 
             margin: 0;
             padding: 0;
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            font-family: 'Linotte Light';
             cursor: default;
             user-select: none;
             -webkit-user-select: none;
             -webkit-font-smoothing: antialiased;
             background-color: aliceblue;
+            color:#707070;
+            font-size: 18px;
             max-width: 100vw;
             overflow-x: initial;
 
+        }
+
+        .changelog .container {
+
+            margin: 20px;
+
+        }
+
+        li {
+
+            list-style: none;
+
+        }
+
+        @font-face {
+            font-family: 'Linotte Light';
+            src: url("https://litten.love/assets/Linotte Light.otf");
         }
 
     </style>
@@ -28,100 +47,47 @@
 </head>
 <body>
 
-    <h1>Changelog</h1>
+    <div class="changelog">
+        <div class="container">
 
-    <li>1.4.1:</li>
-    <ul>
+            <h1>Changelog</h1>
 
-        <li>- Improved Control Center Performance</li>
+            <li class="versionNumber">1.0.3:</li>
+            <ul>
 
-    </ul>
+                <li>- Reduced Weather Update Rate</li>
 
-    <br>
+            </ul>
 
-    <li>1.4:</li>
-    <ul>
+            <br>
 
-        <li>- Added SpringBoard Artwork Transitions</li>
+            <li class="versionNumber">1.0.2:</li>
+            <ul>
 
-    </ul>
+                <li>- Fixed App Library Crash</li>
 
-    <br>
+            </ul>
 
-    <li>1.3:</li>
-    <ul>
+            <br>
 
-        <li>- Added An Option To Use Rounded Mini Player Corners</li>
+            <li class="versionNumber">1.0.1:</li>
+            <ul>
 
-    </ul>
+                <li>- Hide FaceID Lock Label</li>
 
-    <br>
+            </ul>
 
-    <li>1.2.3:</li>
-    <ul>
+            <br>
 
-        <li>- Fixed Control Center Module Dim Always Applying</li>
-        <li>- Fixed Artwork Background Hiding In The Music App Queue View</li>
+            <li class="versionNumber">1.0:</li>
+            <ul>
 
-    </ul>
+                <li>- Initial Release</li>
 
-    <br>
+            </ul>
 
-    <li>1.2.2:</li>
-    <ul>
-
-        <li>- Fixed Control Center Module Blur</li>
-        <li>- Improved Control Center Module Corner Radius</li>
-
-    </ul>
-
-    <br>
-                
-    <li>1.2.1:</li>
-    <ul>
-
-        <li>- Fixed Lockscreen Player Blur</li>
-
-    </ul>
-
-    <br>
-
-    <li>1.2:</li>
-    <ul>
-
-        <li>- Added Control Center Module Blur</li>
-        <li>- Added Control Center Module Dim</li>
-
-    </ul>
-
-    <br>
-
-    <li>1.1:</li>
-    <ul>
-
-        <li>- Added Custom Blur Amount</li>
-        <li>- Added Custom Dim Amount</li>
-        <li>- Added Adaptive Blur</li>
-
-    </ul>
-
-    <br>
-
-    <li>1.0.1:</li>
-    <ul>
-
-        <li>- Code Improvement</li>
-
-    </ul>
-
-    <br>
-
-    <li>1.0:</li>
-    <ul>
-
-        <li>- Initial Release</li>
-
-    </ul>
+        </div>
+    </div>
     
 </body>
 </html>
