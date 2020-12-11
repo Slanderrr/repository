@@ -853,6 +853,25 @@ Icon: https://repo.litten.love/depictions/hls/assets/icon.png
 Name: Heartlines 🌺
 Sileodepiction: https://repo.litten.love/depictions/hls/hls.json
 
+Package: love.litten.heartlines
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: alexandra <hiya@litten.love>
+Installed-Size: 5864
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), love.litten.libkitten (>= 1.1.1), com.peterdev.libpddokdo, me.conorthedev.libappearancecell, com.spark.libsparkcolourpicker
+Filename: ./debs/love.litten.heartlines_1.0.4_iphoneos-arm.deb
+Size: 3200678
+MD5sum: 37a4924bc6543d94403ed03a641db833
+SHA1: 0a8ffa5f7f5cd76e956106d5fc3a4795430d5201
+SHA256: ff9aa10e65474ef3c5f9ccb9e33581b0d76a78754ef2525488c24e5665aa83be
+Section: Tweaks
+Description: I know there's trembling in your heartlines
+Author: alexandra <hiya@litten.love>
+Depiction: https://repo.litten.love/depictions/hls/index.html
+Icon: https://repo.litten.love/depictions/hls/assets/icon.png
+Name: Heartlines 🌺
+Sileodepiction: https://repo.litten.love/depictions/hls/hls.json
+
 Package: love.litten.libkitten
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1256,6 +1275,25 @@ Icon: https://repo.litten.love/depictions/lia/assets/icon.png
 Name: Lobelias 💐
 Sileodepiction: https://repo.litten.love/depictions/lia/lia.json
 
+Package: love.litten.lobelias
+Version: 1.2.3
+Architecture: iphoneos-arm
+Maintainer: alexandra <hiya@litten.love>
+Installed-Size: 1780
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.spark.libsparkcolourpicker, love.litten.libkitten (>= 1.1.1)
+Filename: ./debs/love.litten.lobelias_1.2.3_iphoneos-arm.deb
+Size: 1270082
+MD5sum: edda03f70d00d55250f7cb8861add78f
+SHA1: bb377c7c736614cea7c3e27c46b39227427cdeaa
+SHA256: 22110bbbe4a9e5f0c769f24d7e614b5c495e0856bbe85ea179692951baada864
+Section: Tweaks
+Description: Redesign your lockscreen player
+Author: alexandra <hiya@litten.love>
+Depiction: https://repo.litten.love/depictions/lia/index.html
+Icon: https://repo.litten.love/depictions/lia/assets/icon.png
+Name: Lobelias 💐
+Sileodepiction: https://repo.litten.love/depictions/lia/lia.json
+
 Package: love.litten.lune
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1362,6 +1400,25 @@ Size: 815168
 MD5sum: c2852c06d69b13d80a10e8fd3bace15d
 SHA1: be6d5c8081f12ecc1c1c587514e49bcf17fba5bd
 SHA256: 995eb31c01e9d879472183ae22e79b3fa4dd6c53e14824c6a53458c0c1a596b2
+Section: Tweaks
+Description: Twinkle twinkle little star
+Author: alexandra <hiya@litten.love>
+Depiction: https://repo.litten.love/depictions/lne/index.html
+Icon: https://repo.litten.love/depictions/lne/assets/icon.png
+Name: Lune 🌙
+Sileodepiction: https://repo.litten.love/depictions/lne/lne.json
+
+Package: love.litten.lune
+Version: 1.1.5
+Architecture: iphoneos-arm
+Maintainer: alexandra <hiya@litten.love>
+Installed-Size: 1088
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13), ws.hbang.common (>= 1.14), love.litten.libkitten (>= 1.1.1), com.spark.libsparkcolourpicker
+Filename: ./debs/love.litten.lune_1.1.5_iphoneos-arm.deb
+Size: 815344
+MD5sum: 04c5abd1233b854997bbf7d9525b405b
+SHA1: 0851ccd229ad3d8171e5df89b0651dd4d73ebd18
+SHA256: f6405f1cf1496f43332e031cf89165a80283f6f47722d897c771d6c9708009dc
 Section: Tweaks
 Description: Twinkle twinkle little star
 Author: alexandra <hiya@litten.love>

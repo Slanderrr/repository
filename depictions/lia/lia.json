@@ -57,12 +57,12 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.2.2",
+                    "text": "1.2.3",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "10.12.2020",
+                    "text": "11.12.2020",
                     "title": "Last Time Updated"
                 },
                 {
@@ -109,7 +109,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Tiny Visual Package Update",
+                    "markdown": "- Performance Improvements",
                     "useSpacing": false
                 },
                 {
