@@ -1,0 +1,232 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Litten | Repository</title>
+    <link rel="shortcut icon" href="assets/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="assets/favicon.ico" type="image/x-icon">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Litten | Repository">
+    <meta property="og:description" content="no, you can't get amonglock on android">
+    <meta property="og:url" content="https://repo.litten.love">
+
+    <style>
+
+        html, body {
+
+            margin: 0;
+            padding: 0;
+            user-select: none;
+            -webkit-user-select: none;
+            cursor: default;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            -webkit-font-smoothing: antialiased;
+            background-color: #fff;
+
+        }
+
+        .backgroundVideo .container {
+
+            height: 100%;
+            width: 100%;
+            position: fixed;
+            top: 0px;
+            left: 0;
+            opacity: 0.3;
+
+        }
+
+        .backgroundVideo .container video {
+
+            position: absolute;
+            top: -100px;
+
+        }
+
+        .backgroundVideo .container .blurOverlay {
+
+            position: absolute;
+            top: 0;
+            left: 0;
+            height: 100%;
+            width: 100%;
+            background-color: rgba(255, 255, 255, 0.2);
+            backdrop-filter: blur(25px);
+            -webkit-backdrop-filter: blur(25px);
+            -moz-backdrop-filter: blur(25px);
+            -o-backdrop-filter: blur(25px);
+
+        }
+
+        .home .container {
+
+            text-align: center;
+            height: 90%;
+            width:100%;
+            display:flex;
+            align-items: center;
+            justify-content: center;
+
+        }
+
+        .home .container h1 {
+
+            color: #000;
+            font-weight: 300;
+
+        }
+
+        .home .container h1 #w1 {
+
+            animation: fade2 2s infinite;
+            animation-fill-mode: both;
+            animation-delay: .7s;
+
+        }
+
+        .home .container h1 #w2 {
+
+            animation: fade2 2s infinite;
+            animation-fill-mode: both;
+            animation-delay: 1.2s;
+
+        }
+
+        .home .container h1 #w3 {
+
+            animation: fade2 2s infinite;
+            animation-fill-mode: both;
+            animation-delay: 1.7s;
+
+        }
+
+        .home .container h1 #d1 {
+
+            animation: fade 2s infinite;
+            animation-fill-mode: both;
+            animation-delay: 0ms;
+
+        }
+
+        .home .container h1 #d2 {
+
+            animation: fade 2s infinite;
+            animation-fill-mode: both;
+            animation-delay: 1s;
+
+        }
+
+        @keyframes fade {
+            
+            0% {
+
+                opacity: 0;
+
+            }
+
+            50% {
+
+                opacity: 1;
+
+            }
+
+            100% {
+
+                opacity: 0;
+
+            }
+
+        }
+
+        @keyframes fade2 {
+            
+            0% {
+
+                opacity: .7;
+
+            }
+
+            50% {
+
+                opacity: 1;
+
+            }
+
+            100% {
+
+                opacity: .7;
+
+            }
+
+        }
+
+        @media only screen and (max-width: 414px) {
+
+            .backgroundVideo .container .blurOverlay {
+
+                backdrop-filter: blur(20px);
+                -webkit-backdrop-filter: blur(20px);
+                -moz-backdrop-filter: blur(20px);
+                -o-backdrop-filter: blur(20px);
+
+            }
+
+        }
+
+        @media (prefers-color-scheme: dark) {
+
+            html, body {
+
+                background-color: #000;
+
+            }
+
+            .home .container h1 {
+
+                color: #fff;
+
+            }
+
+        }
+
+    </style>
+
+</head>
+<body onclick="addRepo()">
+
+    <div class="backgroundVideo" id="backgroundVideo">
+        <div class="container">
+
+            <video id="wallpaper" src="" muted autoplay playsinline loop></video>
+
+            <div class="blurOverlay"></div>
+
+        </div>
+    </div>
+    
+    <div class="home">
+        <div class="container">
+
+            <h1 id="title"><span id="w1">repo</span><span id="d1">.</span><span id="w2">litten</span><span id="d2">.</span><span id="w3">love</span></h1>
+            
+        </div>
+    </div>
+
+    <script>
+
+        if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+            document.getElementById('wallpaper').src = "assets/wallpaperMobile.mp4";
+        } else {
+            document.getElementById('wallpaper').src = "assets/wallpaperDesktop.mp4";
+        }
+
+        function addRepo() {
+
+            window.location.href = "cydia://url/https://cydia.saurik.com/api/share#?source=https://repo.litten.love/";
+
+        }
+
+    </script>
+    
+</body>
+</html>
