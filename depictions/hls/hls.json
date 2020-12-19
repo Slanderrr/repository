@@ -53,12 +53,12 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.0.4",
+                    "text": "1.0.5",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "11.12.2020",
+                    "text": "19.12.2020",
                     "title": "Last Time Updated"
                 },
                 {
@@ -105,7 +105,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Performance Improvements",
+                    "markdown": "- Fixed An Up Next Glitch\n\r- Made Secondary Artwork Color Default For Up Next,..\r\n- Added A Hint For 12h Clock",
                     "useSpacing": false
                 },
                 {
