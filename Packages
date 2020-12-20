@@ -1617,6 +1617,25 @@ Icon: https://repo.litten.love/depictions/nta/assets/icon.png
 Name: Nita ☀️
 Sileodepiction: https://repo.litten.love/depictions/nta/nta.json
 
+Package: love.litten.nita
+Version: 1.4.2
+Architecture: iphoneos-arm
+Maintainer: alexandra <hiya@litten.love>
+Installed-Size: 1036
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.peterdev.libpddokdo
+Filename: ./debs/love.litten.nita_1.4.2_iphoneos-arm.deb
+Size: 792428
+MD5sum: 602eab87926cefbbc3193d6d3c31d288
+SHA1: a1f4b92d5c3efc96a4cf11dcc49c17a89fc396c2
+SHA256: bca22dd516cf227dcebaca0a78c9adc48966999404f90bb8a1509790eeb035b3
+Section: Tweaks
+Description: Ensoleillé
+Author: alexandra <hiya@litten.love>
+Depiction: https://repo.litten.love/depictions/nta/index.html
+Icon: https://repo.litten.love/depictions/nta/assets/icon.png
+Name: Nita ☀️
+Sileodepiction: https://repo.litten.love/depictions/nta/nta.json
+
 Package: love.litten.puck
 Version: 1.0
 Architecture: iphoneos-arm

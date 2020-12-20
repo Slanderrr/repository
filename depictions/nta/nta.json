@@ -53,12 +53,12 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.4.1",
+                    "text": "1.4.2",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "10.12.2020",
+                    "text": "20.12.2020",
                     "title": "Last Time Updated"
                 },
                 {
@@ -105,7 +105,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Tiny Visual Package Update",
+                    "markdown": "- Reduced Update Weather Requests",
                     "useSpacing": false
                 },
                 {
