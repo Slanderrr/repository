@@ -10,6 +10,12 @@
          "hideShadow":true
       },
       {  
+         "url":"https://repo.litten.love/depictions/jun/assets/Banner.png",
+         "title":"Juin",
+         "package":"love.litten.juin",
+         "hideShadow":true
+      },
+      {  
          "url":"https://repo.litten.love/depictions/vio/assets/Banner.png",
          "title":"Violet",
          "package":"love.litten.violet",
