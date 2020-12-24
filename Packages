@@ -302,6 +302,25 @@ Icon: https://repo.litten.love/depictions/ava/assets/icon.png
 Name: Avrora 🌌
 Sileodepiction: https://repo.litten.love/depictions/ava/ava.json
 
+Package: love.litten.avrora
+Version: 1.1.4
+Architecture: iphoneos-arm
+Maintainer: alexandra <hiya@litten.love>
+Installed-Size: 1180
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common(>= 1.14), firmware (>= 13.0), com.spark.libsparkapplist, com.peterdev.libpddokdo
+Filename: ./debs/love.litten.avrora_1.1.4_iphoneos-arm.deb
+Size: 940786
+MD5sum: 4b4b76d806222d5e4c289f43c9cc3eb4
+SHA1: bee93f0ae56f764380bee98ee2071568fecbacce
+SHA256: 76602070fd1d455afa12d108054c9884c51fb4be788935876c138f884477c505
+Section: Tweaks
+Description: Shiny icons need shiny names
+Author: alexandra <hiya@litten.love>
+Depiction: https://repo.litten.love/depictions/ava/index.html
+Icon: https://repo.litten.love/depictions/ava/assets/icon.png
+Name: Avrora 🌌
+Sileodepiction: https://repo.litten.love/depictions/ava/ava.json
+
 Package: love.litten.butterfly
 Version: 1.0
 Architecture: iphoneos-arm
