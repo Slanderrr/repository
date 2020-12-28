@@ -1503,6 +1503,25 @@ Icon: https://repo.litten.love/depictions/lne/assets/icon.png
 Name: Lune 🌙
 Sileodepiction: https://repo.litten.love/depictions/lne/lne.json
 
+Package: love.litten.lune
+Version: 1.1.6
+Architecture: iphoneos-arm
+Maintainer: alexandra <hiya@litten.love>
+Installed-Size: 1088
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13), ws.hbang.common (>= 1.14), love.litten.libkitten (>= 1.1.1), com.spark.libsparkcolourpicker
+Filename: ./debs/love.litten.lune_1.1.6_iphoneos-arm.deb
+Size: 815262
+MD5sum: fe6fe2d396ec640c4e7d060941777984
+SHA1: 899cd25b053844139a484e47a10e07b784db811d
+SHA256: 96ea01945159e80cf88bb52c380854891512d917d1b8a9237ae240fe77e018e3
+Section: Tweaks
+Description: Twinkle twinkle little star
+Author: alexandra <hiya@litten.love>
+Depiction: https://repo.litten.love/depictions/lne/index.html
+Icon: https://repo.litten.love/depictions/lne/assets/icon.png
+Name: Lune 🌙
+Sileodepiction: https://repo.litten.love/depictions/lne/lne.json
+
 Package: love.litten.nita
 Version: 1.0
 Architecture: iphoneos-arm
