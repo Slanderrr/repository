@@ -31,12 +31,12 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.2",
+                    "text": "1.2.1",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "10.12.2020",
+                    "text": "31.12.2020",
                     "title": "Last Time Updated"
                 },
                 {
@@ -83,7 +83,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Improved Secondary Color For Better Results",
+                    "markdown": "- Tiny Visual Package Changes",
                     "useSpacing": false
                 },
                 {

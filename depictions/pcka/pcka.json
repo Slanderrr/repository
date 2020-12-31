@@ -19,7 +19,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Library to get three different colors from an image and detect if one is light or dark"
+                    "markdown": "Activator support for Puck"
                 },
                 {
                     "class": "DepictionSeparatorView"
@@ -31,12 +31,12 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.0",
+                    "text": "1.0.1",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "17.10.2020",
+                    "text": "31.10.2020",
                     "title": "Last Time Updated"
                 },
                 {
@@ -83,7 +83,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Initial Release",
+                    "markdown": "- Tiny Visual Package Changes",
                     "useSpacing": false
                 },
                 {

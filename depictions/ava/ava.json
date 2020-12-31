@@ -49,12 +49,12 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.1.4",
+                    "text": "1.1.5",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "24.12.2020",
+                    "text": "31.12.2020",
                     "title": "Last Time Updated"
                 },
                 {
@@ -101,7 +101,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Fixed App Selection Not Saving\r\n- Improved Clock\r\n- Reduced Weather Update Requests",
+                    "markdown": "- Preference Avatars Are Not Stored Locally Anymore",
                     "useSpacing": false
                 },
                 {

@@ -37,7 +37,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Getting peeped by a Rosedoesn’t feel that good, it’s time to change that"
+                    "markdown": "The most advanced and feature rich system wide haptic feedback tweak"
                 },
                 {
                     "class": "DepictionSeparatorView"
@@ -49,12 +49,12 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.0",
+                    "text": "1.0.1",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "10.12.2020",
+                    "text": "31.12.2020",
                     "title": "Last Time Updated"
                 },
                 {
@@ -101,7 +101,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Initial Release",
+                    "markdown": "- Preference Avatars Are Not Stored Locally Anymore",
                     "useSpacing": false
                 },
                 {
