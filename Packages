@@ -93,6 +93,25 @@ Icon: https://repo.litten.love/depictions/koi/assets/icon.png
 Name: Koi 🐠
 Sileodepiction: https://repo.litten.love/depictions/koi/koi.json
 
+Package: 0xcc.woodfairy.koi
+Version: 1.1.3
+Architecture: iphoneos-arm
+Maintainer: woodfairy & Litten
+Installed-Size: 684
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), love.litten.libkitten (>= 1.1.1)
+Filename: ./debs/0xcc.woodfairy.koi_1.1.3_iphoneos-arm.deb
+Size: 297950
+MD5sum: 7be95efc4081334ccc946c1817803d39
+SHA1: 7f8894ec9b4230967648b6744205ccf3c36d808c
+SHA256: c082d2fceffae2c0eb7d2091e5c74cfd44be12b34c33960ba7b6b3cbb324f292
+Section: Tweaks
+Description: Colorize the force touch menu background based on the app icon color
+Author: woodfairy & Litten
+Depiction: https://repo.litten.love/depictions/koi/index.html
+Icon: https://repo.litten.love/depictions/koi/assets/icon.png
+Name: Koi 🐠
+Sileodepiction: https://repo.litten.love/depictions/koi/koi.json
+
 Package: love.litten.amonglock
 Version: 1.0
 Architecture: iphoneos-arm
@@ -202,6 +221,25 @@ SHA256: dda74638b9331e5a4d9a1202c88eb00a1601fb91114a623ecff07c4b0be1b100
 Section: Tweaks
 Description: You were not the owner of this device
 Author: alexandra <hiya@litten.love>
+Depiction: https://repo.litten.love/depictions/alk/index.html
+Icon: https://repo.litten.love/depictions/alk/assets/icon.png
+Name: AmongLock 👻
+Sileodepiction: https://repo.litten.love/depictions/alk/alk.json
+
+Package: love.litten.amonglock
+Version: 1.1.3-1+debug
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 23976
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./debs/love.litten.amonglock_1.1.3-1+debug_iphoneos-arm.deb
+Size: 20944306
+MD5sum: f57ad256294ab21c93c325e4ff84f58c
+SHA1: 331faceece83dc0c3d021baab2aff973ccbbc8aa
+SHA256: 3526202d707504e26fe7c364e787761c6781e31f8e1ecd0b55bb232d943fcbfe
+Section: Tweaks
+Description: You were not the owner of this device
+Author: Litten
 Depiction: https://repo.litten.love/depictions/alk/index.html
 Icon: https://repo.litten.love/depictions/alk/assets/icon.png
 Name: AmongLock 👻
@@ -321,6 +359,25 @@ Icon: https://repo.litten.love/depictions/ava/assets/icon.png
 Name: Avrora 🌌
 Sileodepiction: https://repo.litten.love/depictions/ava/ava.json
 
+Package: love.litten.avrora
+Version: 1.1.5
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 704
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common(>= 1.14), firmware (>= 13.0), com.spark.libsparkapplist, com.peterdev.libpddokdo
+Filename: ./debs/love.litten.avrora_1.1.5_iphoneos-arm.deb
+Size: 377534
+MD5sum: 99fa8652f0a295f7f0679afb5f80f92a
+SHA1: 148dda8066a3b70df157a6b736f1837c9136eb51
+SHA256: 5b05f2ab9f5ebb4662a91a42f2adeb4a42e51ca78472f8dddbc9981e69552f9a
+Section: Tweaks
+Description: Shiny icons need shiny names
+Author: Litten
+Depiction: https://repo.litten.love/depictions/ava/index.html
+Icon: https://repo.litten.love/depictions/ava/assets/icon.png
+Name: Avrora 🌌
+Sileodepiction: https://repo.litten.love/depictions/ava/ava.json
+
 Package: love.litten.butterfly
 Version: 1.0
 Architecture: iphoneos-arm
@@ -373,6 +430,25 @@ SHA256: 25f67ba9c6965a0af50bd58ab9360776b8bfff8ca37d021876683bcde841315f
 Section: Tweaks
 Description: Little colors flying around everywhere
 Author: alexandra <hiya@litten.love>
+Depiction: https://repo.litten.love/depictions/bty/index.html
+Icon: https://repo.litten.love/depictions/bty/assets/icon.png
+Name: Butterfly 🦋
+Sileodepiction: https://repo.litten.love/depictions/bty/bty.json
+
+Package: love.litten.butterfly
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 648
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13), ws.hbang.common (>= 1.14), com.spark.libsparkcolourpicker
+Filename: ./debs/love.litten.butterfly_1.1.2_iphoneos-arm.deb
+Size: 300796
+MD5sum: 4502e5a134cf586f0cf6967d86d5a324
+SHA1: 6280ec38a7987cd574ceec8d9fcb3247edf2e44a
+SHA256: e80e4691051d8057b79804db822eae067998b59c2b0627057697be2bf28f66a9
+Section: Tweaks
+Description: Little colors flying around everywhere
+Author: Litten
 Depiction: https://repo.litten.love/depictions/bty/index.html
 Icon: https://repo.litten.love/depictions/bty/assets/icon.png
 Name: Butterfly 🦋
@@ -815,6 +891,25 @@ Icon: https://repo.litten.love/depictions/drs/assets/icon.png
 Name: Dress 👗
 Sileodepiction: https://repo.litten.love/depictions/drs/drs.json
 
+Package: love.litten.dress
+Version: 2.5.2
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 1120
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.spark.libsparkcolourpicker
+Filename: ./debs/love.litten.dress_2.5.2_iphoneos-arm.deb
+Size: 344022
+MD5sum: e6148835e769df9fd76c01fdfcef05a9
+SHA1: 7da8895947ae21f2a7c0f66bad333a3167882406
+SHA256: e28163fae443d637fa8f0db9d1cac313b80887ee43c38140fc2c33a73a4f9cfb
+Section: Tweaks
+Description: Dress up your lockscreen
+Author: Litten
+Depiction: https://repo.litten.love/depictions/drs/index.html
+Icon: https://repo.litten.love/depictions/drs/assets/icon.png
+Name: Dress 👗
+Sileodepiction: https://repo.litten.love/depictions/drs/drs.json
+
 Package: love.litten.heartlines
 Version: 1.0
 Architecture: iphoneos-arm
@@ -929,6 +1024,25 @@ Icon: https://repo.litten.love/depictions/hls/assets/icon.png
 Name: Heartlines 🌺
 Sileodepiction: https://repo.litten.love/depictions/hls/hls.json
 
+Package: love.litten.heartlines
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 5396
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), love.litten.libkitten (>= 1.1.1), com.peterdev.libpddokdo, me.conorthedev.libappearancecell, com.spark.libsparkcolourpicker
+Filename: ./debs/love.litten.heartlines_1.1_iphoneos-arm.deb
+Size: 2647748
+MD5sum: 3607242e292cdf9b873e7d77ff1347da
+SHA1: 59cb84d92c5cff9423d1ad19bf17da29386d2c57
+SHA256: 7f0c2def452f9d501ef218e80a5aabeab4ba3331dde54c6097a728f9e902b650
+Section: Tweaks
+Description: I know there's trembling in your heartlines
+Author: Litten
+Depiction: https://repo.litten.love/depictions/hls/index.html
+Icon: https://repo.litten.love/depictions/hls/assets/icon.png
+Name: Heartlines 🌺
+Sileodepiction: https://repo.litten.love/depictions/hls/hls.json
+
 Package: love.litten.juin
 Version: 1.0
 Architecture: iphoneos-arm
@@ -943,6 +1057,25 @@ SHA256: a1704b7f3b055dab7ed6e0792690483998c0d0ae1cdaafd3b3a3b695a65aec88
 Section: Tweaks
 Description: Spotify inspired lockscreen player
 Author: alexandra <hiya@litten.love>
+Depiction: https://repo.litten.love/depictions/jun/index.html
+Icon: https://repo.litten.love/depictions/jun/assets/icon.png
+Name: Juin 🏖
+Sileodepiction: https://repo.litten.love/depictions/jun/jun.json
+
+Package: love.litten.juin
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 952
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./debs/love.litten.juin_1.0.1_iphoneos-arm.deb
+Size: 355066
+MD5sum: 81d2372fe68040031a8c26ef3bedf4f4
+SHA1: 1010deb72f2ad68eea20ed2a709fc4673cc014a3
+SHA256: 66d905a49d7b138b299649267d2bf4094353cd33ba47dbb226196892c8b33c12
+Section: Tweaks
+Description: Spotify inspired lockscreen player
+Author: Litten
 Depiction: https://repo.litten.love/depictions/jun/index.html
 Icon: https://repo.litten.love/depictions/jun/assets/icon.png
 Name: Juin 🏖
@@ -1023,6 +1156,26 @@ Section: System
 Description: Library to get three different colors from an image and detect if one is light or dark
 Tag: role::developer
 Author: alexandra <hiya@litten.love>
+Depiction: https://repo.litten.love/depictions/libktn/index.html
+Icon: https://repo.litten.love/depictions/libktn/assets/icon.png
+Name: libKitten 🐱
+Sileodepiction: https://repo.litten.love/depictions/libktn/libktn.json
+
+Package: love.litten.libkitten
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 172
+Depends: firmware (>= 12.0)
+Filename: ./debs/love.litten.libkitten_1.2.1_iphoneos-arm.deb
+Size: 9972
+MD5sum: 7c535d76b29d72385ac2b540c761a6c9
+SHA1: 3b3e6d2ec1c0412c13eb34f792fbabafffc896f7
+SHA256: 691107b526ba6f63ab38ac52cfa91ad0e666e3ce36520cb12f548e9594ae9863
+Section: System
+Description: Library to get three different colors from an image and detect if one is light or dark
+Tag: role::developer
+Author: Litten
 Depiction: https://repo.litten.love/depictions/libktn/index.html
 Icon: https://repo.litten.love/depictions/libktn/assets/icon.png
 Name: libKitten 🐱
@@ -1175,6 +1328,25 @@ SHA256: 14d656886e143212b664bae8b9a6b43ffb006f070427ca7790556e4ee031fedf
 Section: Tweaks
 Description: Full incoming OLED notifications
 Author: alexandra <hiya@litten.love>
+Depiction: https://repo.litten.love/depictions/lsa/index.html
+Icon: https://repo.litten.love/depictions/lsa/assets/icon.png
+Name: Lisa 💅🏻
+Sileodepiction: https://repo.litten.love/depictions/lsa/lsa.json
+
+Package: love.litten.lisa
+Version: 1.3.4
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 524
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./debs/love.litten.lisa_1.3.4_iphoneos-arm.deb
+Size: 109800
+MD5sum: 9de0262e61c0cf6cfeee373ad3ce2149
+SHA1: 1c3cf7584bcbb8d1b9527af283d2bb6599bec28f
+SHA256: 99417fb352c8f0a5ecc1beff5eb09a8962ef313c7b143f99cddbdf7d4e59f9ff
+Section: Tweaks
+Description: Full incoming OLED notifications
+Author: Litten
 Depiction: https://repo.litten.love/depictions/lsa/index.html
 Icon: https://repo.litten.love/depictions/lsa/assets/icon.png
 Name: Lisa 💅🏻
@@ -1370,6 +1542,25 @@ Icon: https://repo.litten.love/depictions/lia/assets/icon.png
 Name: Lobelias 💐
 Sileodepiction: https://repo.litten.love/depictions/lia/lia.json
 
+Package: love.litten.lobelias
+Version: 1.2.4
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 1236
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.spark.libsparkcolourpicker, love.litten.libkitten (>= 1.1.1)
+Filename: ./debs/love.litten.lobelias_1.2.4_iphoneos-arm.deb
+Size: 574514
+MD5sum: 448fd274ef8a8a102322dfabe63bccbb
+SHA1: b24c819a702e235c97ccccf1cba983e9275ea19f
+SHA256: 77430dd400c682fe767573f8e8ec6a53c2adeb93450e784b1a8f9967166b2e17
+Section: Tweaks
+Description: Redesign your lockscreen player
+Author: Litten
+Depiction: https://repo.litten.love/depictions/lia/index.html
+Icon: https://repo.litten.love/depictions/lia/assets/icon.png
+Name: Lobelias 💐
+Sileodepiction: https://repo.litten.love/depictions/lia/lia.json
+
 Package: love.litten.lune
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1517,6 +1708,25 @@ SHA256: 96ea01945159e80cf88bb52c380854891512d917d1b8a9237ae240fe77e018e3
 Section: Tweaks
 Description: Twinkle twinkle little star
 Author: alexandra <hiya@litten.love>
+Depiction: https://repo.litten.love/depictions/lne/index.html
+Icon: https://repo.litten.love/depictions/lne/assets/icon.png
+Name: Lune 🌙
+Sileodepiction: https://repo.litten.love/depictions/lne/lne.json
+
+Package: love.litten.lune
+Version: 1.1.7
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 612
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13), ws.hbang.common (>= 1.14), love.litten.libkitten (>= 1.1.1), com.spark.libsparkcolourpicker
+Filename: ./debs/love.litten.lune_1.1.7_iphoneos-arm.deb
+Size: 251992
+MD5sum: 1f3cdc830ef0bc5bb6114f7298c4b180
+SHA1: 1e20e81114c3afefb92f1afc285d27b6d0811266
+SHA256: a862e81fd5ec897211dd1866a3340de926721298f401c22658465c71e00124a7
+Section: Tweaks
+Description: Twinkle twinkle little star
+Author: Litten
 Depiction: https://repo.litten.love/depictions/lne/index.html
 Icon: https://repo.litten.love/depictions/lne/assets/icon.png
 Name: Lune 🌙
@@ -1693,6 +1903,25 @@ Icon: https://repo.litten.love/depictions/nta/assets/icon.png
 Name: Nita ☀️
 Sileodepiction: https://repo.litten.love/depictions/nta/nta.json
 
+Package: love.litten.nita
+Version: 1.4.3
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 560
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.peterdev.libpddokdo
+Filename: ./debs/love.litten.nita_1.4.3_iphoneos-arm.deb
+Size: 229174
+MD5sum: 022e8160eebfa3af7dadb98cd8dd11cd
+SHA1: 8fce7850d945a4691bc1aec0645382e4d7565fb2
+SHA256: 114f2f16ec965b7d90ab64525e9d6b7d3856c48bfec7f328149a58df5c52baa6
+Section: Tweaks
+Description: Ensoleillé
+Author: Litten
+Depiction: https://repo.litten.love/depictions/nta/index.html
+Icon: https://repo.litten.love/depictions/nta/assets/icon.png
+Name: Nita ☀️
+Sileodepiction: https://repo.litten.love/depictions/nta/nta.json
+
 Package: love.litten.puck
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1769,20 +1998,58 @@ Icon: https://repo.litten.love/depictions/pck/assets/icon.png
 Name: Puck 🔮
 Sileodepiction: https://repo.litten.love/depictions/pck/pck.json
 
+Package: love.litten.puck
+Version: 1.1.3
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 1548
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.opa334.ccsupport
+Filename: ./debs/love.litten.puck_1.1.3_iphoneos-arm.deb
+Size: 1086612
+MD5sum: 9dba85c63e2689b5e14c97ecd7dda245
+SHA1: 540bee1d3973cbb717e186a93944b3fb27b305ae
+SHA256: 013926d42def50cb8f8c9fe8d29777576629eae607df53237d6e065906636ba3
+Section: Tweaks
+Description: Your magical watching spirit
+Author: Litten
+Depiction: https://repo.litten.love/depictions/pck/index.html
+Icon: https://repo.litten.love/depictions/pck/assets/icon.png
+Name: Puck 🔮
+Sileodepiction: https://repo.litten.love/depictions/pck/pck.json
+
 Package: love.litten.puck.action
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: alexandra <hiya@litten.love>
+Maintainer: Litten
 Installed-Size: 180
 Depends: mobilesubstrate, libactivator, love.litten.puck (>= 1.1)
 Filename: ./debs/love.litten.puck.action_1.0_iphoneos-arm.deb
-Size: 12454
-MD5sum: 5a9549616a0977d2c22d17c64396ffc9
-SHA1: 5935edd473bfe77fc5065719e7a4a731776da76e
-SHA256: b1aca1e8401be8a028aa16e34ddba33a3172afc0495405119e43194f9614ae37
+Size: 12442
+MD5sum: b01d5b1d13a4423435b10e1dede148bc
+SHA1: 551e0d844d4f650643dd61bacdf82e277d25dc5f
+SHA256: 3dc95a5d04e650970c98d404881089c99cfdae0ec0b40465d632adfacc2d7f4a
 Section: Tweaks (Addons)
 Description: Activator action for Puck
-Author: alexandra <hiya@litten.love>
+Author: Litten
+Depiction: https://repo.litten.love/depictions/pcka/index.html
+Icon: https://repo.litten.love/depictions/pcka/assets/icon.png
+Name: Puck Activator Action
+Sileodepiction: https://repo.litten.love/depictions/pcka/pcka.json
+
+Package: love.litten.puck.action
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 180
+Depends: mobilesubstrate, libactivator, love.litten.puck (>= 1.1)
+Filename: ./debs/love.litten.puck.action_1.0.1_iphoneos-arm.deb
+Size: 12430
+MD5sum: 8c6c14c8157548fa96d9de9d804d4c85
+SHA1: 278f6cff1996ac435a2f408bf02b124872d90b7e
+SHA256: 26364afe50dafd95ce137189c86bc4a83d860f21f93ae687e79e2d752ffa4b22
+Section: Tweaks (Addons)
+Description: Activator action for Puck
+Author: Litten
 Depiction: https://repo.litten.love/depictions/pcka/index.html
 Icon: https://repo.litten.love/depictions/pcka/assets/icon.png
 Name: Puck Activator Action
@@ -1803,6 +2070,26 @@ SHA256: 3d007bffaf9862998073f85e3b0931320badd6eb1c0ef8b2b335c85040b6b7b3
 Section: Tweaks
 Description: Getting peeped by a rose doesn't feel that good, it's time to change that
 Author: alexandra <hiya@litten.love>
+Depiction: https://repo.litten.love/depictions/rse/index.html
+Icon: https://repo.litten.love/depictions/rse/assets/icon.png
+Name: Rose 🌹
+Sileodepiction: https://repo.litten.love/depictions/rse/rse.json
+
+Package: love.litten.rose
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 2640
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Conflicts: sh.litten.rose
+Filename: ./debs/love.litten.rose_1.0.1_iphoneos-arm.deb
+Size: 459956
+MD5sum: addbea25303b3cbe3108a16534e4b8f7
+SHA1: bfb5071a5e5e3ae44312ea980e859ed1042e0202
+SHA256: 83e4abe6042adef6b5b42c6587c4b4888fd65f9888373fc93c66ab0003c3b291
+Section: Tweaks
+Description: Getting peeped by a rose doesn't feel that good, it's time to change that
+Author: Litten
 Depiction: https://repo.litten.love/depictions/rse/index.html
 Icon: https://repo.litten.love/depictions/rse/assets/icon.png
 Name: Rose 🌹
