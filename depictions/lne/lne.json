@@ -49,12 +49,12 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.1.7",
+                    "text": "1.2",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "31.12.2020",
+                    "text": "01.01.2020",
                     "title": "Last Time Updated"
                 },
                 {
@@ -101,7 +101,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Preference Avatars Are Not Stored Locally Anymore",
+                    "markdown": "- Added An Option To Always Dim The Lockscreen",
                     "useSpacing": false
                 },
                 {
