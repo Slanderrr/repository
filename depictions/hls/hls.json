@@ -53,7 +53,7 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.2",
+                    "text": "1.2.1",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -105,7 +105,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Performance Improvements\r\n- The Date Label Now Displays Running Timers\r\n- Improved Designs",
+                    "markdown": "- Improved Designs",
                     "useSpacing": false
                 },
                 {
