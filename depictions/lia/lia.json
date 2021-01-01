@@ -109,7 +109,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- https://litten.love/assets/preferences/litten.png",
+                    "markdown": "- Preference Avatars Are Not Stored Locally Anymore",
                     "useSpacing": false
                 },
                 {
