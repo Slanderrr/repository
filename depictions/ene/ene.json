@@ -18,21 +18,19 @@
                             "url": "https://repo.litten.love/depictions/ene/assets/ss2.mov"
                         },
                         {
-                            "accessibilityText": "Screenshot1",
+                            "accessibilityText": "Screenshot2",
                             "url": "https://repo.litten.love/depictions/ene/assets/ss3.mov"
                         },
                         {
-                            "accessibilityText": "Screenshot2",
+                            "accessibilityText": "Screenshot3",
                             "url": "https://repo.litten.love/depictions/ene/assets/ss4.png"
-                        }
-                        ,
+                        },
                         {
-                            "accessibilityText": "Screenshot2",
+                            "accessibilityText": "Screenshot4",
                             "url": "https://repo.litten.love/depictions/ene/assets/ss5.png"
-                        }
-                        ,
+                        },
                         {
-                            "accessibilityText": "Screenshot2",
+                            "accessibilityText": "Screenshot5",
                             "url": "https://repo.litten.love/depictions/ene/assets/ss6.png"
                         }
                     ]
