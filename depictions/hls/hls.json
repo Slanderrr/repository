@@ -53,7 +53,7 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.2.2",
+                    "text": "1.2.3",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -105,7 +105,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Fixed Preferences Loading Time",
+                    "markdown": "- Added Turkish Localization",
                     "useSpacing": false
                 },
                 {
