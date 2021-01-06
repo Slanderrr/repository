@@ -44,12 +44,6 @@
          "title":"Puck",
          "package":"love.litten.puck",
          "hideShadow":true
-      },
-      {
-         "url":"https://repo.litten.love/depictions/ava/assets/Banner.png",
-         "title":"Avrora",
-         "package":"love.litten.avrora",
-         "hideShadow":true
       }
    ]
 }
