@@ -15,11 +15,13 @@
                         },
                         {
                             "accessibilityText": "Screenshot1",
-                            "url": "https://repo.litten.love/depictions/ene/assets/ss2.mov"
+                            "url": "https://repo.litten.love/depictions/ene/assets/ss2.mov",
+                            "video": true
                         },
                         {
                             "accessibilityText": "Screenshot2",
-                            "url": "https://repo.litten.love/depictions/ene/assets/ss3.mov"
+                            "url": "https://repo.litten.love/depictions/ene/assets/ss3.mov",
+                            "video": true
                         },
                         {
                             "accessibilityText": "Screenshot3",
