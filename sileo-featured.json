@@ -16,6 +16,12 @@
          "hideShadow":true
       },
       {  
+         "url":"https://repo.litten.love/depictions/ene/assets/Banner.png",
+         "title":"Eneko",
+         "package":"love.litten.eneko",
+         "hideShadow":true
+      },
+      {  
          "url":"https://repo.litten.love/depictions/vio/assets/Banner.png",
          "title":"Violet",
          "package":"love.litten.violet",
@@ -25,12 +31,6 @@
          "url":"https://repo.litten.love/depictions/lne/assets/Banner.png",
          "title":"Lune",
          "package":"love.litten.lune",
-         "hideShadow":true
-      },
-      {
-         "url":"https://repo.litten.love/depictions/koi/assets/Banner.png",
-         "title":"Koi",
-         "package":"0xcc.woodfairy.koi",
          "hideShadow":true
       },
       {
