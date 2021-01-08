@@ -14,16 +14,6 @@
                             "video": true
                         },
                         {
-                            "accessibilityText": "Screenshot1",
-                            "url": "https://repo.litten.love/depictions/ene/assets/ss2.mov",
-                            "video": true
-                        },
-                        {
-                            "accessibilityText": "Screenshot2",
-                            "url": "https://repo.litten.love/depictions/ene/assets/ss3.mov",
-                            "video": true
-                        },
-                        {
                             "accessibilityText": "Screenshot3",
                             "url": "https://repo.litten.love/depictions/ene/assets/ss4.png"
                         },
@@ -65,12 +55,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "xx.01.2021",
+                    "text": "08.01.2021",
                     "title": "Last Time Updated"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "xx.01.2021",
+                    "text": "08.01.2021",
                     "title": "Released"
                 },
                 {   
