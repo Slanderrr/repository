@@ -2378,44 +2378,6 @@ Icon: https://repo.litten.love/depictions/pck/assets/icon.png
 Name: Puck 🔮
 Sileodepiction: https://repo.litten.love/depictions/pck/pck.json
 
-Package: love.litten.puck.action
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Litten
-Installed-Size: 180
-Depends: mobilesubstrate, libactivator, love.litten.puck (>= 1.1)
-Filename: ./debs/love.litten.puck.action_1.0_iphoneos-arm.deb
-Size: 12442
-MD5sum: b01d5b1d13a4423435b10e1dede148bc
-SHA1: 551e0d844d4f650643dd61bacdf82e277d25dc5f
-SHA256: 3dc95a5d04e650970c98d404881089c99cfdae0ec0b40465d632adfacc2d7f4a
-Section: Tweaks (Addons)
-Description: Activator action for Puck
-Author: Litten
-Depiction: https://repo.litten.love/depictions/pcka/index.html
-Icon: https://repo.litten.love/depictions/pcka/assets/icon.png
-Name: Puck Activator Action
-Sileodepiction: https://repo.litten.love/depictions/pcka/pcka.json
-
-Package: love.litten.puck.action
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: Litten
-Installed-Size: 180
-Depends: mobilesubstrate, libactivator, love.litten.puck (>= 1.1)
-Filename: ./debs/love.litten.puck.action_1.0.1_iphoneos-arm.deb
-Size: 12430
-MD5sum: 8c6c14c8157548fa96d9de9d804d4c85
-SHA1: 278f6cff1996ac435a2f408bf02b124872d90b7e
-SHA256: 26364afe50dafd95ce137189c86bc4a83d860f21f93ae687e79e2d752ffa4b22
-Section: Tweaks (Addons)
-Description: Activator action for Puck
-Author: Litten
-Depiction: https://repo.litten.love/depictions/pcka/index.html
-Icon: https://repo.litten.love/depictions/pcka/assets/icon.png
-Name: Puck Activator Action
-Sileodepiction: https://repo.litten.love/depictions/pcka/pcka.json
-
 Package: love.litten.rose
 Version: 1.0
 Architecture: iphoneos-arm
