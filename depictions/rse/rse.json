@@ -71,7 +71,7 @@
                 {   
                     "class": "DepictionTableTextView",
                     "title": "Devices",
-                    "text": "Only iPhone"
+                    "text": "iPhone"
                 },
                 {
                     "class": "DepictionTableTextView",
