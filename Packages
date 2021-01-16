@@ -2438,6 +2438,25 @@ Icon: https://repo.litten.love/depictions/rse/assets/icon.png
 Name: Rose 🌹
 Sileodepiction: https://repo.litten.love/depictions/rse/rse.json
 
+Package: love.litten.rose
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 2640
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./debs/love.litten.rose_1.0.3_iphoneos-arm.deb
+Size: 436030
+MD5sum: e34ee3b8714cc3e4d40b2959078fb6b4
+SHA1: 94197ac49a185b8fb1af71d9b05ff9303fd97805
+SHA256: c5618fd6367b71850884108ffeee3dbf54c32c33b6fab79be80334e573f54fa4
+Section: Tweaks
+Description: Getting peeped by a rose doesn't feel that good, it's time to change that
+Author: Litten
+Depiction: https://repo.litten.love/depictions/rse/index.html
+Icon: https://repo.litten.love/depictions/rse/assets/icon.png
+Name: Rose 🌹
+Sileodepiction: https://repo.litten.love/depictions/rse/rse.json
+
 Package: love.litten.violet
 Version: 1.0
 Architecture: iphoneos-arm
