@@ -45,12 +45,12 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.0.3",
+                    "text": "1.0.4",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "16.01.2021",
+                    "text": "19.01.2021",
                     "title": "Last Time Updated"
                 },
                 {
@@ -97,7 +97,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Fixed Siri Haptics On iOS 14",
+                    "markdown": "- Fixed Respring Going Back Into The Wrong Preferences",
                     "useSpacing": false
                 },
                 {

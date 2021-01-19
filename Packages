@@ -2454,6 +2454,25 @@ Icon: https://repo.litten.love/depictions/pck/assets/icon.png
 Name: Puck 🔮
 Sileodepiction: https://repo.litten.love/depictions/pck/pck.json
 
+Package: love.litten.puck
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 1760
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.opa334.ccsupport
+Filename: ./debs/love.litten.puck_1.2_iphoneos-arm.deb
+Size: 1063332
+MD5sum: 6446edf682dc703f4b15f610d04421cd
+SHA1: e5cc64f58bbb0908507162852f19b677050b6378
+SHA256: 800131bb174ca83e28aa13c5ff87476118283c608805586f1e059227f86dba11
+Section: Tweaks
+Description: Your magical watching spirit
+Author: Litten
+Depiction: https://repo.litten.love/depictions/pck/index.html
+Icon: https://repo.litten.love/depictions/pck/assets/icon.png
+Name: Puck 🔮
+Sileodepiction: https://repo.litten.love/depictions/pck/pck.json
+
 Package: love.litten.rose
 Version: 1.0
 Architecture: iphoneos-arm
@@ -2525,6 +2544,26 @@ Size: 436030
 MD5sum: e34ee3b8714cc3e4d40b2959078fb6b4
 SHA1: 94197ac49a185b8fb1af71d9b05ff9303fd97805
 SHA256: c5618fd6367b71850884108ffeee3dbf54c32c33b6fab79be80334e573f54fa4
+Section: Tweaks
+Description: Getting peeped by a rose doesn't feel that good, it's time to change that
+Author: Litten
+Depiction: https://repo.litten.love/depictions/rse/index.html
+Icon: https://repo.litten.love/depictions/rse/assets/icon.png
+Name: Rose 🌹
+Sileodepiction: https://repo.litten.love/depictions/rse/rse.json
+
+Package: love.litten.rose
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 2672
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Conflicts: sh.litten.rose
+Filename: ./debs/love.litten.rose_1.0.4_iphoneos-arm.deb
+Size: 434346
+MD5sum: 5484672fc9a8af8212e47dde55c1e7ea
+SHA1: 69246df9600b2bc4eac0a2d0b321cad2a17be7b3
+SHA256: bc378f22ea40bb57cdfdf012f4a7ab296ed9520538b6b2b959cf7312b2717f75
 Section: Tweaks
 Description: Getting peeped by a rose doesn't feel that good, it's time to change that
 Author: Litten
