@@ -5,14 +5,14 @@ Maintainer: Litten
 Installed-Size: 2680
 Depends: mobilesubstrate
 Filename: ./debs/love.litten.ballet_1.0_appletvos-arm64.deb
-Size: 2680242
-MD5sum: d93cc4e5f37d56862a99df943f3acd88
-SHA1: 70c89763718894ec27b825910407fb5b0ec27b59
-SHA256: 21631ec392eadba2bee409e1df70604880f7ae22d0b663145fd9619068850d20
+Size: 2680284
+MD5sum: ce8e383da0d95ad886058daba4d0c376
+SHA1: 975e1d8727546e81e6d67a92c605eb0f1219106b
+SHA256: aebaabc44c8ed0de9a3345722215c6e398fb6cd2370e668d76bee6b94e3271a0
 Section: Tweaks
 Description: Wallpapers for your Apple TV
 Author: Litten
 Depiction: https://repo.litten.love/tv/depictions/blt/blt.json
-Icon: https://repo.litten.love/tv/depictions/assets/icon.png
+Icon: https://repo.litten.love/tv/depictions//blt/assets/icon.png
 Name: Ballet
 
