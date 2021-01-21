@@ -4,5 +4,13 @@
 	"ShowTopScreenshot": false,
 	"BackgroundColor": "000000",
 	"BackgroundImageURL": "https://repo.litten.love/tv/depictions/blt/assets/background.png",
-	"AppIconURL": "https://repo.litten.love/tv/depictions//blt/assets/icon.png"
+	"VideoPreviewURL": "https://repo.litten.love/tv/depictions/blt/assets/preview.mp4",
+	"AppIconURL": "https://repo.litten.love/tv/depictions/blt/assets/depictionIcon.png",
+	"Screenshots":[
+		"https://repo.litten.love/tv/depictions/blt/assets/ss1.png",
+		"https://repo.litten.love/tv/depictions/blt/assets/ss2.png",
+		"https://repo.litten.love/tv/depictions/blt/assets/ss3.png",
+		"https://repo.litten.love/tv/depictions/blt/assets/ss4.png",
+		"https://repo.litten.love/tv/depictions/blt/assets/ss5.png"
+	]
 }
