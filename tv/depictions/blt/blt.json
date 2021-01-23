@@ -1,5 +1,5 @@
 {
-	"LongDescription": "Wallpapers for your Apple TV",
+	"LongDescription": "Set an image or video wallpaper on your Apple TV/n/n",
 	"MainTextColor": "ffffff",
 	"ShowTopScreenshot": false,
 	"BackgroundColor": "000000",
@@ -11,6 +11,7 @@
 		"https://repo.litten.love/tv/depictions/blt/assets/ss2.png",
 		"https://repo.litten.love/tv/depictions/blt/assets/ss3.png",
 		"https://repo.litten.love/tv/depictions/blt/assets/ss4.png",
-		"https://repo.litten.love/tv/depictions/blt/assets/ss5.png"
+		"https://repo.litten.love/tv/depictions/blt/assets/ss5.png",
+		"https://repo.litten.love/tv/depictions/blt/assets/ss6.png"
 	]
 }
