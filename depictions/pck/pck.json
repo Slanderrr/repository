@@ -41,7 +41,7 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.4",
+                    "text": "1.5",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -93,7 +93,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Added An Option To Turn Flashlight Off On Shutdown",
+                    "markdown": "- Added An Option To Wake When Alarm Fires",
                     "useSpacing": false
                 },
                 {
