@@ -1,5 +1,5 @@
 {
-	"LongDescription": "Set an image or video wallpaper on your Apple TV. Image or Video needs to be named 'wallpaper.png/mp4' and placed into /Library/Ballet/ with scp/usb. For more information visit https://github.com/Litteeen/Ballet/",
+	"LongDescription": "Set an image or video wallpaper on your Apple TV \n Image or Video needs to be named 'wallpaper.png/mp4' and placed into /Library/Ballet/ with scp/usb \n For more information visit https://github.com/Litteeen/Ballet/",
 	"MainTextColor": "ffffff",
 	"ShowTopScreenshot": false,
 	"BackgroundColor": "000000",
