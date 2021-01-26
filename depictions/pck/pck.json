@@ -41,12 +41,12 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.5",
+                    "text": "1.5.1",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "24.01.2021",
+                    "text": "26.01.2021",
                     "title": "Last Time Updated"
                 },
                 {
@@ -93,7 +93,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Added An Option To Wake When Alarm Fires",
+                    "markdown": "- Fixed Crash For Some Users",
                     "useSpacing": false
                 },
                 {
