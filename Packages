@@ -1,22 +1,3 @@
-Package: 0xcc.woodfairy.cantreachme
-Version: 1.2
-Architecture: iphoneos-arm
-Maintainer: woodfairy
-Installed-Size: 948
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/0xcc.woodfairy.cantreachme_1.2_iphoneos-arm.deb
-Size: 610628
-MD5sum: a510fe0b680d3da0cc12bfea023c692a
-SHA1: 215b1b424616e6b09eec354d15143bce44e6e566
-SHA256: 482d88ca92191a321a58f76a6ab32cee5c961b4702e151c774272d9c1bde0c29
-Section: Tweaks
-Description: Custom actions for the reachability gesture
-Author: woodfairy
-Depiction: https://repo.litten.love/depictions/crm/index.html
-Icon: https://repo.litten.love/depictions/crm/assets/icon.png
-Name: CantReachMe
-Sileodepiction: https://repo.litten.love/depictions/crm/crm.json
-
 Package: 0xcc.woodfairy.koi
 Version: 1.0
 Architecture: iphoneos-arm
