@@ -41,12 +41,12 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.5.1",
+                    "text": "1.5.2",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "26.01.2021",
+                    "text": "27.01.2021",
                     "title": "Last Time Updated"
                 },
                 {
@@ -93,7 +93,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Fixed Crash For Some Users",
+                    "markdown": "- Fixed arm64e Support",
                     "useSpacing": false
                 },
                 {
