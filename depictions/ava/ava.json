@@ -97,7 +97,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Code Improvements/r/n- Removed Hide All Other Labels",
+                    "markdown": "- Code Improvements\r\n- Removed Hide All Other Labels",
                     "useSpacing": false
                 },
                 {

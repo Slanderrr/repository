@@ -101,7 +101,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Added A New Icon/r/n- Fixed State After A Respring",
+                    "markdown": "- Added A New Icon\r\n- Fixed State After A Respring",
                     "useSpacing": false
                 },
                 {
