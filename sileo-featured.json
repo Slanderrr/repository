@@ -16,6 +16,12 @@
          "hideShadow":true
       },
       {  
+         "url":"https://repo.litten.love/depictions/cpa/assets/Banner.png",
+         "title":"Copypasta",
+         "package":"love.litten.copypasta",
+         "hideShadow":true
+      },
+      {  
          "url":"https://repo.litten.love/depictions/ene/assets/Banner.png",
          "title":"Eneko",
          "package":"love.litten.eneko",
