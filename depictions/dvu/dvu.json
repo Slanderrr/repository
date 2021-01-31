@@ -10,19 +10,19 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
-                            "url": "https://repo.litten.love/depictions/cpa/assets/ss1.png"
+                            "url": "https://repo.litten.love/depictions/dvu/assets/ss1.png"
                         },
                         {
                             "accessibilityText": "Screenshot1",
-                            "url": "https://repo.litten.love/depictions/cpa/assets/ss2.png"
+                            "url": "https://repo.litten.love/depictions/dvu/assets/ss2.png"
                         },
                         {
                             "accessibilityText": "Screenshot2",
-                            "url": "https://repo.litten.love/depictions/cpa/assets/ss3.png"
+                            "url": "https://repo.litten.love/depictions/dvu/assets/ss3.png"
                         },
                         {
                             "accessibilityText": "Screenshot3",
-                            "url": "https://repo.litten.love/depictions/cpa/assets/ss4.png"
+                            "url": "https://repo.litten.love/depictions/dvu/assets/ss4.png"
                         }
                     ]
                 },
@@ -37,7 +37,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Save texts to a list which is accessible from your keyboard"
+                    "markdown": "Lisa, but always on"
                 },
                 {
                     "class": "DepictionSeparatorView"
@@ -80,16 +80,11 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "Developer",
-                    "text": "Nepeta & Litten"
+                    "text": "Litten"
                 },
                 {
                     "class": "DepictionSpacerView",
                     "spacing": 8
-                },
-                {
-                    "class": "DepictionTableButtonView",
-                    "title": "Nepeta's Twitter",
-                    "action": "https://twitter.com/NepetaDev"
                 },
                 {
                     "class": "DepictionTableButtonView",
@@ -116,12 +111,12 @@
                 {
                     "class": "DepictionTableButtonView",
                     "title": "View Full Changelog",
-                    "action": "https://repo.litten.love/depictions/cpa/fullChangelog.html"
+                    "action": "https://repo.litten.love/depictions/dvu/fullChangelog.html"
                 }
             ]
         }
     ],
-    "headerImage": "https://repo.litten.love/depictions/cpa/assets/Banner.png",
+    "headerImage": "https://repo.litten.love/depictions/dvu/assets/Banner.png",
     "tintColor": "#350636",
     "minVersion": "0.1"
 }
