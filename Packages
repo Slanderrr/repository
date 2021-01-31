@@ -568,6 +568,25 @@ Icon: https://repo.litten.love/depictions/cpa/assets/icon.png
 Name: Copypasta 🎃
 Sileodepiction: https://repo.litten.love/depictions/cpa/cpa.json
 
+Package: love.litten.copypasta
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Nepeta & Litten
+Installed-Size: 632
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), applist, com.mrgcgamer.libgcuniversal
+Filename: ./debs/love.litten.copypasta_1.1_iphoneos-arm.deb
+Size: 204462
+MD5sum: dfe178548ec403a3c6b9f7d054063529
+SHA1: 43d9494c96686ea93cc1c180b351482a36a2c289
+SHA256: bb99c8b534855797a78da1264e32d9286bddb7a01b095e39b691d774d464428a
+Section: Tweaks
+Description: Minimalist clipboard manager
+Author: Nepeta & Litten
+Depiction: https://repo.litten.love/depictions/cpa/index.html
+Icon: https://repo.litten.love/depictions/cpa/assets/icon.png
+Name: Copypasta 🎃
+Sileodepiction: https://repo.litten.love/depictions/cpa/cpa.json
+
 Package: love.litten.dress
 Version: 1.0
 Architecture: iphoneos-arm
