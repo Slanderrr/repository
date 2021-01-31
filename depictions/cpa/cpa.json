@@ -19,10 +19,6 @@
                         {
                             "accessibilityText": "Screenshot2",
                             "url": "https://repo.litten.love/depictions/cpa/assets/ss3.png"
-                        },
-                        {
-                            "accessibilityText": "Screenshot3",
-                            "url": "https://repo.litten.love/depictions/cpa/assets/ss4.png"
                         }
                     ]
                 },
@@ -54,12 +50,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "xx.01.2021",
+                    "text": "31.01.2021",
                     "title": "Last Time Updated"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "xx.01.2021",
+                    "text": "31.01.2021",
                     "title": "Released"
                 },
                 {   
