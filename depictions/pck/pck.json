@@ -41,12 +41,12 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.5.2",
+                    "text": "1.5.3",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "27.01.2021",
+                    "text": "01.02.2021",
                     "title": "Last Time Updated"
                 },
                 {
@@ -93,7 +93,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Fixed arm64e Support",
+                    "markdown": "- Renamed Call Cell\r\n- Added Music Playback Hint",
                     "useSpacing": false
                 },
                 {

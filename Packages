@@ -2663,6 +2663,25 @@ Icon: https://repo.litten.love/depictions/pck/assets/icon.png
 Name: Puck 🔮
 Sileodepiction: https://repo.litten.love/depictions/pck/pck.json
 
+Package: love.litten.puck
+Version: 1.5.3
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 1760
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.opa334.ccsupport
+Filename: ./debs/love.litten.puck_1.5.3_iphoneos-arm.deb
+Size: 1064650
+MD5sum: a2b4aee7a6446ed4030256a238fde10b
+SHA1: ae3db0ce602ca2ee88ec3787495b6a05d2066908
+SHA256: d35687eea1742e77a6dbf3a833d7d15816d0a06600ca437bd4955e6681f95c2e
+Section: Tweaks
+Description: Your magical watching spirit
+Author: Litten
+Depiction: https://repo.litten.love/depictions/pck/index.html
+Icon: https://repo.litten.love/depictions/pck/assets/icon.png
+Name: Puck 🔮
+Sileodepiction: https://repo.litten.love/depictions/pck/pck.json
+
 Package: love.litten.rose
 Version: 1.0
 Architecture: iphoneos-arm
