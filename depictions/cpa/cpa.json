@@ -45,7 +45,7 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.1",
+                    "text": "1.2",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -102,7 +102,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Added An Option To Always Show The Chevron\r\n- Fixed Image Picker",
+                    "markdown": "- Added Shortmoji Support\r\n- Increased Maximum Item Count to 60",
                     "useSpacing": false
                 },
                 {

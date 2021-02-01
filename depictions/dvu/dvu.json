@@ -19,10 +19,6 @@
                         {
                             "accessibilityText": "Screenshot2",
                             "url": "https://repo.litten.love/depictions/dvu/assets/ss3.png"
-                        },
-                        {
-                            "accessibilityText": "Screenshot3",
-                            "url": "https://repo.litten.love/depictions/dvu/assets/ss4.png"
                         }
                     ]
                 },
@@ -54,12 +50,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "xx.01.2021",
+                    "text": "01.02.2021",
                     "title": "Last Time Updated"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "xx.01.2021",
+                    "text": "01.02.2021",
                     "title": "Released"
                 },
                 {   
@@ -117,6 +113,6 @@
         }
     ],
     "headerImage": "https://repo.litten.love/depictions/dvu/assets/Banner.png",
-    "tintColor": "#350636",
+    "tintColor": "#4C9595",
     "minVersion": "0.1"
 }
