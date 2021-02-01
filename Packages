@@ -594,10 +594,10 @@ Maintainer: Litten
 Installed-Size: 1404
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
 Filename: ./debs/love.litten.dejavu_1.0_iphoneos-arm.deb
-Size: 1044344
-MD5sum: c59137e4c231a77b226147d4f2469ffe
-SHA1: d8a2b2a30c61852219d2d3fc857abfc47708f455
-SHA256: 560b0d99de0cb4e004b2f1d9aef0718aa95d93dc25c7a3ef2452332179e0005d
+Size: 1044350
+MD5sum: 23e0e7f7b37e6023e4ef96f451c48554
+SHA1: a647df5c9ec018d1d98ef722dd14021763823ea1
+SHA256: e45eeac25453b348c3ca4350a45ae124ccd1ec6e7e23493c94e70dae47bd290d
 Section: Tweaks
 Description: I've seen that before
 Author: Litten
