@@ -102,7 +102,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Added Shortmoji Support\r\n- Increased Maximum Item Count to 60",
+                    "markdown": "- Added Shortmoji Support\r\n- Added An Option To Make The Background Blurry\r\n- Increased Maximum Item Count to 60",
                     "useSpacing": false
                 },
                 {
