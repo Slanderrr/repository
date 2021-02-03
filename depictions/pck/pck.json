@@ -41,7 +41,7 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.6",
+                    "text": "1.6.1",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -93,7 +93,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Added Wake Action For Activator",
+                    "markdown": "- Fixed Not Properly Activating",
                     "useSpacing": false
                 },
                 {
