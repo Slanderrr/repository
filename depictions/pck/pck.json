@@ -41,12 +41,12 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.5.3",
+                    "text": "1.6",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "01.02.2021",
+                    "text": "03.02.2021",
                     "title": "Last Time Updated"
                 },
                 {
@@ -93,7 +93,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Renamed Call Cell\r\n- Added Music Playback Hint",
+                    "markdown": "- Added Wake Action For Activator",
                     "useSpacing": false
                 },
                 {
