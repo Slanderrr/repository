@@ -45,12 +45,12 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.2",
+                    "text": "1.2.1",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "01.02.2021",
+                    "text": "03.02.2021",
                     "title": "Last Time Updated"
                 },
                 {
@@ -102,7 +102,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Added Shortmoji Support\r\n- Added An Option To Make The Background Blurry\r\n- Increased Maximum Item Count to 60",
+                    "markdown": "- Fixed Shortmoji Support Thanks To Miro",
                     "useSpacing": false
                 },
                 {
