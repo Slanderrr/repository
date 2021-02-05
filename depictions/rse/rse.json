@@ -45,12 +45,12 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.0.4",
+                    "text": "1.0.5",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "19.01.2021",
+                    "text": "05.02.2021",
                     "title": "Last Time Updated"
                 },
                 {
@@ -97,7 +97,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Fixed Respring Going Back Into The Wrong Preferences",
+                    "markdown": "- Updated Links",
                     "useSpacing": false
                 },
                 {

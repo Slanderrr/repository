@@ -45,12 +45,12 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.2.1",
+                    "text": "1.2.2",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "03.02.2021",
+                    "text": "05.02.2021",
                     "title": "Last Time Updated"
                 },
                 {
@@ -102,7 +102,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Fixed Shortmoji Support Thanks To Miro",
+                    "markdown": "- Updated Links",
                     "useSpacing": false
                 },
                 {
