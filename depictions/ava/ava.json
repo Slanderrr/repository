@@ -45,7 +45,7 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.1.8",
+                    "text": "1.2",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -97,7 +97,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Updated Links",
+                    "markdown": "- Added An Option To Lowercase All Labels\r\n- Added The Hide All Other Labels Option Back",
                     "useSpacing": false
                 },
                 {
